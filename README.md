@@ -11,8 +11,8 @@ The following folders exist:
 * [CTA WAVE Test Content](http://dash.akamaized.net/WAVE/Original): where CTA WAVE approved test content resides
 
 How to add content:
-* Original Content: Please provide an issue 
-* Proposed CTA WAVE Content: Please provide an issue 
+* Original Content: Submit an [issue](https://github.com/cta-wave/Test-Content/issues/new/choose&label=proposed-original)
+* Proposed CTA WAVE Content: Submit an [issue](https://github.com/cta-wave/Test-Content/issue/new&label=proposed-wave-content) 
 
 
 
