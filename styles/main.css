@@ -1,0 +1,56 @@
+.pure-menu-horizontal {
+    display: block;
+    height: 150px;
+    background-color: #2d3e50;
+}
+#playerWapper {
+    background-color: #2b2b2b;
+
+}
+
+
+video {
+    height: 400px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label {
+    color: #34495e;
+}
+
+.pure-img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    line-height: 1.7em;
+    color: #7f8c8d;
+    font-size: 13px;
+}
+
+.pure-menu-list {
+    text-align: center;
+}
+
+.menu a {
+    color: #6FBEF3;
+}
+.menu a {
+    color: white;
+}
+
+.menu li a:hover,
+.menu li a:focus {
+    background: none;
+    border: none;
+    color: #AECFE5;
+}
+
+td a {
+    color: #6FBEF3;
+}
