@@ -1,349 +1,103 @@
-<!DOCTYPE html>
 <html>
-    <head>
-        <title>CTA Content</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="styles/body.css" rel="stylesheet" type="text/css" />
-        <link href="styles/collapsible.css" rel="stylesheet" type="text/css" />
-        <link href="styles/card.css" rel="stylesheet" type="text/css" />
-        <!--<link href="styles/overlay.css" rel="stylesheet" type="text/css" />-->
-    </head>
-    
-    <body>
-        <h1>CTA Content</h1>
-        <p>This page provides the CTA Mezzanine content hosted on this server. The content is divided into four categories, namely:
-            <ul>
-                <li><i>Original Content</i>, where original media file without any modifications resides</li>
-                <li><i>Mezzanine Content</i>, where various versions of the original media file with annotations and decorations reside</li>
-                <li><i>Proposed Content</i>, where encoded streams of the mezzanine media files reside</li>
-                <li><i>Test Content</i>, where encoded streams annotated with MPD according to CTA Content Model reside</li>
-            </ul>
-            <p>as well as</p>
-            <ul>
-                <li><i>Content Model</i>, where an example stream is added with MPD according to CTA Content Model</li>
-            </ul>
-        </p>
-        <p>For more information visit the 
-            <a href="https://github.com/cta-wave/Test-Content" style="cursor:pointer" target="_blank">GitHub page</a>.
-        </p>
-        
-        <br/>
-        
-        <div class="card">
-            <div class="container">
-                <div class="cardlist">
-                    <button type="button" class="collapsible">Original Content</button>
-                    <div class="content">
-                        <div class="row">
-                            <div class="column">
-                                <img class="thumbnail" src="thumbnails/original.jpg" style="width:100%">
-                            </div>
-                            <div class="column">
-                                <p><strong>Title:</strong></p>
-                                <p><strong>Content info:</strong></p>
-                                <br/>
-                                <br/>
-                                <p><strong>Play:</strong></p>
-                                <p><strong>Download:</strong></p>
-                                <p><strong>License:</strong></p>
-                            </div>
-                            <div class="column">
-                                <p>DVB_PQ10_VandV</p>
-                                <p><strong>Video</strong></p>
-                                <p>PQ10 format</p>
-                                <p>Prores 422</p>
-                                <p>
-                                    <a href="./play.html?filename=./Original/DVB_PQ10_VandV.mov" target="_blank" style="cursor:pointer">play file</a>
-                                </p>
-                                <p>
-                                    <a href="./Original/DVB_PQ10_VandV.mov" download="" style="cursor:pointer" onclick="downloadFile(this)">mov (35.7GB)</a>
-                                </p>
-                                <p>
-                                    <a href="./Original/LICENSE.txt" style="cursor:pointer" target="_blank">License</a>
-                                    <!--<div id="license" class="overlay">
-                                        <a href="../Original/LICENSE.txt" class="closebtn" onclick="closeLicense()">&times;</a>
-                                    </div>
-                                    <span style="cursor:pointer" onclick="openLicense()">License</span>-->
-                                </p>
-                            </div>
-                            <div class="column">
-                                <br/>
-                                <p><strong>Audio</strong></p>
-                                <p>-</p>
-                                <p>-</p>
-                                <br/>
-                                <br/>
-                                <br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="cardlist">
-                    <button type="button" class="collapsible">Mezzanine Content</button>
-                    <div class="content">
-                    </div>
-                </div>
-                
-                <div class="cardlist">
-                    <button type="button" class="collapsible">Proposed Content</button>
-                    <div class="content">
-			<div class="row">
-			    <div class="column">
-                                <img class="thumbnail" src="thumbnails/proposed_tos.jpg" style="width:100%">
-                            </div>
-                            <div class="column">
-                                <p><strong>Title:</strong></p>
-                                <p><strong>MPD:</strong></p>
-                                <p><strong>Content info:</strong></p>
-                                <br/>
-                                <br/>
-                                <p><strong>Play:</strong></p>
-                                <p><strong>Download:</strong></p>
-                                <p><strong>License:</strong></p>
-                            </div>
-                            <div class="column">
-                                <p>Tears of Steel (Fragmented, video and audio)</p>
-                                <p>
-                                    <a href="./Proposed/ToS_Fragmented_AVC_AAC/output.mpd" download="" style="cursor:pointer" onclick="downloadFile(this)">output.mpd</a>
-                                </p>
-                                <p><strong>Video</strong></p>
-                                <p>ISO BMFF</p>
-                                <p>AVC High Profile, 1920x1080, 60fps</p>
-                                <p>
-                                    <a href="./play.html?filename=./Proposed/ToS_Fragmented_AVC_AAC/output.mpd" target="_blank" style="cursor:pointer">play file</a>
-                                </p>
-                                <p>
-                                    <a href="./Proposed/ToS_Fragmented_AVC_AAC/ToS_Fragmented_AVC_AAC.zip" download="" style="cursor:pointer" onclick="downloadFile(this)">zip mp4 (267MB)</a>
-                                </p>
-                                <p>
-                                    <a href="./Proposed/LICENSE.txt" style="cursor:pointer" target="_blank">License</a>
-                                </p>
-                            </div>
-                            <div class="column">
-                                <br/>
-                                <p><strong>Audio</strong></p>
-                                <p>ISO BMFF</p>
-                                <p>HeAAC v2, 44100Hz</p>
-                                <br/>
-                                <br/>
-                                <br/>
-                            </div>
-			</div>
-			<div class="row">
-			    <div class="column">
-                                <img class="thumbnail" src="thumbnails/proposed_tos.jpg" style="width:100%">
-                            </div>
-                            <div class="column">
-                                <p><strong>Title:</strong></p>
-                                <p><strong>MPD:</strong></p>
-                                <p><strong>Content info:</strong></p>
-                                <br/>
-                                <br/>
-                                <p><strong>Play:</strong></p>
-                                <p><strong>Download:</strong></p>
-                                <p><strong>License:</strong></p>
-                            </div>
-                            <div class="column">
-                                <p>Tears of Steel (Fragmented, video, multi bitrate)</p>
-                                <p>
-                                    <a href="./Proposed/ToS_Fragmented_AVC_MultiRate/output.mpd" download="" style="cursor:pointer" onclick="downloadFile(this)">output.mpd</a>
-                                </p>
-                                <p><strong>Video</strong></p>
-                                <p>ISO BMFF</p>
-                                <p>AVC High Profile, 1280x720, 50fps, 3Mbps-6Mbps</p>
-                                <p>
-                                    <a href="./play.html?filename=./Proposed/ToS_Fragmented_AVC_MultiRate/output.mpd" target="_blank" style="cursor:pointer">play file</a>
-                                </p>
-                                <p>
-                                    <a href="./Proposed/ToS_Fragmented_AVC_MultiRate/ToS_Fragmented_AVC_MultiRate.zip" download="" style="cursor:pointer" onclick="downloadFile(this)">zip mp4 (267MB)</a>
-                                </p>
-                                <p>
-                                    <a href="./Proposed/LICENSE.txt" style="cursor:pointer" target="_blank">License</a>
-                                </p>
-                            </div>
-			</div>
-                    </div>
-                </div>
-                    
-                <div class="cardlist">
-                    <button type="button" class="collapsible">Test Content</button>
-                    <div class="content">
-                    </div>
-                </div>
-                
-                <div class="cardlist">
-                    <button type="button" class="collapsible">Content Model</button>
-                    <div class="content">
-                        <div class="row">
-                            <div class="column">
-                                <img class="thumbnail" src="thumbnails/tos.png" style="width:100%">
-                            </div>
-                            <div class="column">
-                                <p><strong>Title:</strong></p>
-                                <p><strong>MPD:</strong></p>
-                                <p><strong>Content info:</strong></p>
-                                <br/>
-                                <br/>
-                                <p><strong>Play:</strong></p>
-                                <p><strong>Download:</strong></p>
-                                <p><strong>License:</strong></p>
-                            </div>
-                            <div class="column">
-                                <p>Tears of Steel (Chunked, video-only)</p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Chunked/ToS_MultiRate_chunked.mpd" download="" style="cursor:pointer" onclick="downloadFile(this)">ToS_MultiRate_chunked.mpd</a>
-                                </p>
-                                <p><strong>Video</strong></p>
-                                <p>ISO BMFF</p>
-                                <p>AVC High Profile, 1920x800, 24fps</p>
-                                <p>
-                                    <a href="./play.html?filename=./ContentModel/SinglePeriod/Chunked/ToS_MultiRate_chunked.mpd" target="_blank" style="cursor:pointer">play file</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Chunked/video1.zip" download="" style="cursor:pointer" onclick="downloadFile(this)">zip mp4 (267MB)</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/LICENSE.txt" style="cursor:pointer" target="_blank">License</a>
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                            <div class="column">
-                                <img class="thumbnail" src="thumbnails/audioOnly.png" style="width:100%">
-                            </div>
-                            <div class="column">
-                                <p><strong>Title:</strong></p>
-                                <p><strong>MPD:</strong></p>
-                                <p><strong>Content info:</strong></p>
-                                <br/>
-                                <br/>
-                                <p><strong>Play:</strong></p>
-                                <p><strong>Download:</strong></p>
-                                <p><strong>License:</strong></p>
-                            </div>
-                            <div class="column">
-                                <p>Tears of Steel (Chunked, audio-only)</p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Chunked/ToS_HEAACv2_chunked.mpd" download="" style="cursor:pointer" onclick="downloadFile(this)">ToS_HEAACv2_chunked.mpd</a>
-                                </p>
-                                <p><strong>Audio</strong></p>
-                                <p>ISO BMFF</p>
-                                <p>HeAAC v2, 44100Hz</p>
-                                <p>
-                                    <a href="./play.html?filename=./ContentModel/SinglePeriod/Chunked/ToS_HEAACv2_chunked.mpd" target="_blank" style="cursor:pointer">play file</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Chunked/audio1.zip" download="" style="cursor:pointer" onclick="downloadFile(this)">zip mp4 (8.7MB)</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/LICENSE.txt" style="cursor:pointer" target="_blank">License</a>
-                                </p>
-                            </div>
-                        </div>
 
-                        <div class="row">
-                            <div class="column">
-                                <img class="thumbnail" src="thumbnails/tos.png" style="width:100%">
-                            </div>
-                            <div class="column">
-                                <p><strong>Title:</strong></p>
-                                <p><strong>MPD:</strong></p>
-                                <p><strong>Content info:</strong></p>
-                                <br/>
-                                <br/>
-                                <p><strong>Play:</strong></p>
-                                <p><strong>Download:</strong></p>
-                                <p><strong>License:</strong></p>
-                            </div>
-                            <div class="column">
-                                <p>Tears of Steel (Fragmented, video-only)</p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Fragmented/ToS_MultiRate_fragmented.mpd" download="" style="cursor:pointer" onclick="downloadFile(this)">ToS_MultiRate_fragmented.mpd</a>
-                                </p>
-                                <p><strong>Video</strong></p>
-                                <p>ISO BMFF</p>
-                                <p>AVC High Profile, 1920x800, 24fps</p>
-                                <p>
-                                    <a href="./play.html?filename=./ContentModel/SinglePeriod/Fragmented/ToS_MultiRate_fragmented.mpd" target="_blank" style="cursor:pointer">play file</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Fragmented/video1.zip" download="" style="cursor:pointer" onclick="downloadFile(this)">zip mp4 (267MB)</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/LICENSE.txt" style="cursor:pointer" target="_blank">License</a>
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                            <div class="column">
-                                <img class="thumbnail" src="thumbnails/audioOnly.png" style="width:100%">
-                            </div>
-                            <div class="column">
-                                <p><strong>Title:</strong></p>
-                                    <p><strong>MPD:</strong></p>
-                                <p><strong>Content info:</strong></p>
-                                <br/>
-                                <br/>
-                                <p><strong>Play:</strong></p>
-                                <p><strong>Download:</strong></p>
-                                <p><strong>License:</strong></p>
-                            </div>
-                            <div class="column">
-                                <p>Tears of Steel (Fragmented, audio-only)</p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Fragmented/ToS_HEAACv2_fragmented.mpd" download="" style="cursor:pointer" onclick="downloadFile(this)">ToS_HEAACv2_fragmented.mpd</a>
-                                </p>
-                                <p><strong>Audio</strong></p>
-                                <p>ISO BMFF</p>
-                                <p>HeAAC v2, 44100Hz</p>
-                                <p>
-                                    <a href="./play.html?filename=./ContentModel/SinglePeriod/Fragmented/ToS_HEAACv2_fragmented.mpd" target="_blank" style="cursor:pointer">play file</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/SinglePeriod/Fragmented/audio1.zip" download="" style="cursor:pointer" onclick="downloadFile(this)">zip mp4 (8.6MB)</a>
-                                </p>
-                                <p>
-                                    <a href="./ContentModel/LICENSE.txt" style="cursor:pointer" target="_blank">License</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </body>
-    
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
+<head>
+   <title>CTA WAVE - Test Content</title>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width = device-width, initial-scale = 1">
+   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
+   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+   <link rel="stylesheet" href="styles/main.css">
 
-        for (i = 0; i < coll.length; i++) {
-        coll[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-            content.style.display = "none";
-            } else {
-            content.style.display = "block";
-            }
-        });
-        }
-        
-        function openLicense(licenseElement) {
-            //document.getElementById("license").style.width = "80%";
-            window.open(licenseElement.href, "_blank");
-        }
-        function closeLicense() {
-            //document.getElementById("license").style.width = "0%";
-        }
-        function downloadFile(downloadElement) {
-            var url = downloadElement.href;
-            var name = url.split(/[\\/]/).pop();
-            downloadElement.download = url.split(/[\\/]/).pop();
-        }
-    </script>
-    
+
+</head>
+
+
+<body>
+   <div id="app">
+      <div class="pure-menu pure-menu-horizontal menu">
+         <a href="#" class="pure-menu-heading pure-menu-link">
+            <img class="pure-img-responsive" src="img/wave-logo-reverse-350x110.png"></img>
+         </a>
+
+         <ul class="pure-menu-list">
+            <li class="pure-menu-item">
+               <a href="https://github.com/cta-wave/Test-Content" class="pure-menu-link">Github</a>
+            </li>
+            <li class="pure-menu-item">
+               <a href="#" class="pure-menu-link">Search Syntax</a>
+            </li>
+            <li class="pure-menu-item">
+               <form class="pure-form">
+                  <fieldset>
+                     <input v-model="search" type="text" placeholder="Search..." />
+                     <label for="default-remember">
+                        <button v-on:click="searchInDB" class="pure-button pure-button-primary">Search</button>
+                  </fieldset>
+               </form>
+            </li>
+         </ul>
+
+      </div>
+      <div class="pure-g" id='playerWapper'>
+
+         <div class="pure-u-1-3">
+            <p></p>
+         </div>
+         <div class="pure-u-1-3">
+            <p>
+               <video id="videoPlayer" controls></video></p>
+         </div>
+         <div class="pure-u-1-3">
+            <p></p>
+         </div>
+
+      </div>
+      <h1>AVC Dataset</h1>
+      <div class="pure-g">
+         <div class="pure-u-1 pure-u-xl-1">
+            <table class="pure-table">
+               <thead>
+                  <tr>
+                     <th>File</th>
+                     <th>Resolution</th>
+                     <th>Framerate</th>
+                     <th>Type</th>
+                     <th>Bitrate</th>
+                     <th>Mezzanine</th>
+                     <th>VUI Timing</th>
+                     <th>Fragment Type</th>
+                     <th>SEI</th>
+                     <th>Segment Duration</th>
+                     <th>Play</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr v-for="(item, index) in results" :key="index">
+                     <td><a v-bind:href="`${baseURL}${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                     <td>{{ item.resolution }}</td>
+                     <td>{{ item.framerate }}</td>
+                     <td>{{ item.visualSampleEntry }}</td>
+                     <td>{{ item.bitrateInKbps }} Kbps</td>
+                     <td>{{ item.mezzanineInput }}</td>
+                     <td>{{ item.hasVUITiming }}</td>
+                     <td>{{ item.fragmentType }}</td>
+                     <td>{{ item.hasSEI }}</td>
+                     <td>{{ item.segmentDuration }}</td>
+                     <td><button class="play" v-on:click="play(baseURL + item.mpdPath)">Play</button></td>
+                  </tr>
+
+               </tbody>
+            </table>
+
+         </div>
+      </div>
+   </div>
+   </div>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+   <script src="http://cdn.dashjs.org/latest/dash.all.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+   <script src="http://cdn.dashjs.org/latest/dash.all.min.js"></script>
+   <script src="js/app.js"></script>
+</body>
+
 </html>
