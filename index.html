@@ -11,6 +11,19 @@
 
 </head>
 
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<h2>Search Syntax</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+			<p>You can browse files directly, or just use the simple search syntax that is available in the search field on the top of the page.</p>
+
+         <p>For example, if you want to isolate files that have a 5 second segment duration just type <code>segmentDuration==5</code>, if you want to search files with segmentDuration at 5 and fragmentType at "duration", just type <code>segmentDuration==5:fragmentType==duration</code>.</p>
+
+<p>The <code>:</code> character acts as a logical <b>AND</b></p>
+		</div>
+	</div>
+</div>
 
 <body>
    <div id="app">
@@ -24,7 +37,7 @@
                <a href="https://github.com/cta-wave/Test-Content" class="pure-menu-link">Github</a>
             </li>
             <li class="pure-menu-item">
-               <a href="#" class="pure-menu-link">Search Syntax</a>
+               <a href="#popup1" class="pure-menu-link">Search Syntax</a>
             </li>
             <li class="pure-menu-item">
                <form class="pure-form">
