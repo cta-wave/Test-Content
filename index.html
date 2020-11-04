@@ -59,11 +59,8 @@
                <thead>
                   <tr>
                      <th>File</th>
-                     <th>Resolution</th>
-                     <th>Framerate</th>
+                     <th>Representations</th>
                      <th>Type</th>
-                     <th>Bitrate</th>
-                     <th>Mezzanine</th>
                      <th>VUI Timing</th>
                      <th>Fragment Type</th>
                      <th>SEI</th>
@@ -74,11 +71,8 @@
                <tbody>
                   <tr v-for="(item, index) in results" :key="index">
                      <td><a v-bind:href="`${baseURL}${item.mpdPath}`">{{ item.mpdPath }}</a></td>
-                     <td>{{ item.resolution }}</td>
-                     <td>{{ item.framerate }}</td>
+                     <td><ol> <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li></ol></td>
                      <td>{{ item.visualSampleEntry }}</td>
-                     <td>{{ item.bitrateInKbps }} Kbps</td>
-                     <td>{{ item.mezzanineInput }}</td>
                      <td>{{ item.hasVUITiming }}</td>
                      <td>{{ item.fragmentType }}</td>
                      <td>{{ item.hasSEI }}</td>
