@@ -7,7 +7,7 @@ CTA WAVE Test Content is hosted here: https://dash.akamaized.net/WAVE/index.html
 
 How to add content:
 * Original Content: Submit an [issue](https://github.com/cta-wave/Test-Content/issues/new&labels=proposed-original)
-* Proposed CTA WAVE Content: Submit an [issue](https://github.com/cta-wave/Test-Content/issue/new&labels=proposed-wave-content) 
+* Proposed CTA WAVE Content: Submit an [issue](https://github.com/cta-wave/Test-Content/issues/new&labels=proposed-wave-content) 
 
 ## How does this site work
 
