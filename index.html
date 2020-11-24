@@ -4,7 +4,8 @@
    <title>CTA WAVE - Test Content</title>
    <meta charset="UTF-8">
    <meta name="viewport" content="width = device-width, initial-scale = 1">
-   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
    <link rel="stylesheet" href="styles/main.css">
 
@@ -12,95 +13,148 @@
 </head>
 
 <div id="popup1" class="overlay">
-	<div class="popup">
-		<h2>Search Syntax</h2>
-		<a class="close" href="#">&times;</a>
-		<div class="content">
-			<p>You can browse files directly, or just use the simple search syntax that is available in the search field on the top of the page.</p>
+   <div class="popup">
+      <h2>Search Syntax</h2>
+      <a class="close" href="#">&times;</a>
+      <div class="content">
+         <p>You can browse files directly, or just use the simple search syntax that is available in the search field on
+            the top of the page.</p>
 
-         <p>For example, if you want to isolate files that have a 5 second segment duration just type <code>segmentDuration==5</code>, if you want to search files with segmentDuration at 5 and fragmentType at "duration", just type <code>segmentDuration==5:fragmentType==duration</code>.</p>
+         <p>For example, if you want to isolate files that have a 5 second segment duration just type
+            <code>segmentDuration==5</code>, if you want to search files with segmentDuration at 5 and fragmentType at
+            "duration", just type <code>segmentDuration==5:fragmentType==duration</code>.</p>
 
-<p>The <code>:</code> character acts as a logical <b>AND</b></p>
-		</div>
-	</div>
+         <p>The <code>:</code> character acts as a logical <b>AND</b></p>
+      </div>
+   </div>
 </div>
 
 <body>
    <div id="app">
-      <div class="pure-menu pure-menu-horizontal menu">
-         <a href="#" class="pure-menu-heading pure-menu-link">
-            <img class="pure-img-responsive" src="img/wave-logo-reverse-350x110.png"></img>
-         </a>
 
-         <ul class="pure-menu-list">
-            <li class="pure-menu-item">
-               <a href="https://github.com/cta-wave/Test-Content" class="pure-menu-link">Github</a>
-            </li>
-            <li class="pure-menu-item">
-               <a href="#popup1" class="pure-menu-link">Search Syntax</a>
-            </li>
-            <li class="pure-menu-item">
-               <form class="pure-form">
-                  <fieldset>
-                     <input v-model="search" type="text" placeholder="Search..." />
-                     <label for="default-remember">
-                        <button v-on:click="searchInDB" class="pure-button pure-button-primary">Search</button>
-                  </fieldset>
-               </form>
-            </li>
-         </ul>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+         <a class="navbar-brand" href="#"><img src="img/wave-logo-reverse-350x110.png"></img></a>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+         </button>
+
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+               <li class="nav-item">
+                  <a class="nav-link" target="_blank" href="https://github.com/cta-wave/Test-Content">Github</a>
+               </li>
+               <li class="nav-item">
+                  <a class="nav-link" href="#popup1">Search Syntax</a>
+               </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+               <input class="form-control mr-sm-2" v-model="search" type="text" placeholder="Search...">
+               <button class="btn btn-outline-success my-2 my-sm-0" v-on:click="searchInDB">Search</button>
+            </form>
+         </div>
+      </nav>
+      <div id='playerWapper' class="mb-5 ">
+
+         <div class="row h-100">
+            <div class="col">
+            </div>
+            <div class="col-5 text-center h-100 align-self-center">
+
+               <video class="h-100 align-self-center" id="videoPlayer" controls></video>
+
+            </div>
+            <div class="col">
+            </div>
+         </div>
+
 
       </div>
-      <div class="pure-g" id='playerWapper'>
+      <div class="container">
+         <div  class="row">
+            <div class="col">
+            </div>
+            <div class="col-10 text-center h-100 align-self-center">
 
-         <div class="pure-u-1-3">
-            <p></p>
-         </div>
-         <div class="pure-u-1-3">
-            <p>
-               <video id="videoPlayer" controls></video></p>
-         </div>
-         <div class="pure-u-1-3">
-            <p></p>
-         </div>
+               <ul class="nav nav-tabs">
+                  <li class="nav-item">
+                    <a class="nav-link active"  id="cfhd-tab" data-toggle="tab" href="#cfhd" role="tab" >CFHD</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" id="cenc-tab" data-toggle="tab" href="#cenc" role="tab" >CENC (coming soon)</a>
+                  </li>
+                </ul>
 
+               <div class="tab-content" id="myTabContent">
+                  <table class="table tab-pane fade show active" id="cfhd" role="tabpanel" aria-labelledby="cfhd-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">VSE</th>
+                           <th scope="col">VUI Timing</th>
+                           <th scope="col">Fragment Type</th>
+                           <th scope="col">Picture SEI Timing Message</th>
+                           <th scope="col">Segment Duration</th>
+                           <th scope="col">Play</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results" :key="index">
+                           <td scope="row"><a v-bind:href="`${baseURL}${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.visualSampleEntry }}</td>
+                           <td>{{ item.hasVUITiming }}</td>
+                           <td>{{ item.fragmentType }}</td>
+                           <td>{{ item.hasSEI }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                           <td><button class="play btn btn-success" v-on:click="play(baseURL + item.mpdPath)">Play</button></td>
+                        </tr>
+            
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="cenc" role="tabpanel" aria-labelledby="cenc-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Base Stream</th>
+                           <th scope="col">Track Encryption Box</th>
+                           <th scope="col">Sample Encryption Box</th>
+                           <th scope="col">Sample Auxiliary Information</th>
+                           <th scope="col">Sample Auxiliary Information Sizes Box</th>
+                           <th scope="col">Per_Sample_IV_Size</th>
+                           <th scope="col">pssh</th>
+                           <th scope="col">key storage</th>
+                           <th scope="col">clear samples</th>
+                           <th scope="col">DRM</th>
+                           <th scope="col">Play</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                     </tbody>
+                  </table>
+               </div>
+
+            </div>
+            <div class="col">
+            </div>
+         </div>      
       </div>
-      <h1>AVC Dataset</h1>
-      <div class="pure-g">
-         <div class="pure-u-1 pure-u-xl-1">
-            <table class="pure-table">
-               <thead>
-                  <tr>
-                     <th>File</th>
-                     <th>Representations</th>
-                     <th>Type</th>
-                     <th>VUI Timing</th>
-                     <th>Fragment Type</th>
-                     <th>SEI</th>
-                     <th>Segment Duration</th>
-                     <th>Play</th>
-                  </tr>
-               </thead>
-               <tbody>
-                  <tr v-for="(item, index) in results" :key="index">
-                     <td><a v-bind:href="`${baseURL}${item.mpdPath}`">{{ item.mpdPath }}</a></td>
-                     <td><ol> <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li></ol></td>
-                     <td>{{ item.visualSampleEntry }}</td>
-                     <td>{{ item.hasVUITiming }}</td>
-                     <td>{{ item.fragmentType }}</td>
-                     <td>{{ item.hasSEI }}</td>
-                     <td>{{ item.segmentDuration }}</td>
-                     <td><button class="play" v-on:click="play(baseURL + item.mpdPath)">Play</button></td>
-                  </tr>
 
-               </tbody>
-            </table>
 
-         </div>
-      </div>
    </div>
    </div>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"></script>
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"></script>
    <script src="http://cdn.dashjs.org/latest/dash.all.min.js"></script>
    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
    <script src="http://cdn.dashjs.org/latest/dash.all.min.js"></script>
