@@ -54,7 +54,6 @@ $.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/databa
     el: '#app',
     data: {
       database: data,
-      baseURL: "https://dash.akamaized.net/WAVE/vectors/2021-06-11/",
       search: '',
       results_cfhd: Object.values(data)[0],
       results_cenc: Object.values(data)[1]

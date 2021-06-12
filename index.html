@@ -101,7 +101,7 @@
                      </thead>
                      <tbody>
                         <tr v-for="(item, index) in results_cfhd" :key="index">
-                           <td scope="row"><a v-bind:href="`${baseURL}${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
                            <td>
                               <ol>
                                  <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
@@ -112,7 +112,7 @@
                            <td>{{ item.fragmentType }}</td>
                            <td>{{ item.hasSEI }}</td>
                            <td>{{ item.segmentDuration }}</td>
-                           <td><button class="play btn btn-success" v-on:click="play(baseURL + item.mpdPath)">Play</button></td>
+                           <td><button class="play btn btn-success" v-on:click="play(item.mpdPath)">Play</button></td>
                         </tr>
                      </tbody>
                   </table>
@@ -133,7 +133,7 @@
                      </thead>
                      <tbody>
                         <tr v-for="(item, index) in results_cenc" :key="index">
-                           <td scope="row"><a v-bind:href="`${baseURL}${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
                            <td>
                               <ol>
                                  <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
