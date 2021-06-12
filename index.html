@@ -81,7 +81,7 @@
                     <a class="nav-link active"  id="cfhd-tab" data-toggle="tab" href="#cfhd" role="tab" >CFHD</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" id="cenc-tab" data-toggle="tab" href="#cenc" role="tab" >CENC (coming soon)</a>
+                     <a class="nav-link" id="cenc-tab" data-toggle="tab" href="#cenc" role="tab" >CENC</a>
                   </li>
                 </ul>
 
@@ -114,27 +114,40 @@
                            <td>{{ item.segmentDuration }}</td>
                            <td><button class="play btn btn-success" v-on:click="play(baseURL + item.mpdPath)">Play</button></td>
                         </tr>
-            
                      </tbody>
                   </table>
                   <table class="table tab-pane fade show active" id="cenc" role="tabpanel" aria-labelledby="cenc-tab">
                      <thead class="thead-dark">
                         <tr>
                            <th scope="col">File</th>
-                           <th scope="col">Base Stream</th>
-                           <th scope="col">Track Encryption Box</th>
-                           <th scope="col">Sample Encryption Box</th>
-                           <th scope="col">Sample Auxiliary Information</th>
-                           <th scope="col">Sample Auxiliary Information Sizes Box</th>
-                           <th scope="col">Per_Sample_IV_Size</th>
-                           <th scope="col">pssh</th>
-                           <th scope="col">key storage</th>
-                           <th scope="col">clear samples</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">VSE</th>
+                           <th scope="col">VUI Timing</th>
+                           <th scope="col">Fragment Type</th>
+                           <th scope="col">Picture SEI Timing Message</th>
+                           <th scope="col">Segment Duration</th>
                            <th scope="col">DRM</th>
-                           <th scope="col">Play</th>
+                           <th scope="col">KID</th>
+                           <th scope="col">Key</th>
                         </tr>
                      </thead>
                      <tbody>
+                        <tr v-for="(item, index) in results" :key="index">
+                           <td scope="row"><a v-bind:href="`${baseURL}${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.visualSampleEntry }}</td>
+                           <td>{{ item.hasVUITiming }}</td>
+                           <td>{{ item.fragmentType }}</td>
+                           <td>{{ item.hasSEI }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                           <td>ClearKey</td>
+                           <td>J5kmSWp_XSXaafKzsnmafw</td>
+                           <td>ABEiM0RVZneImaq7zN3u_w</td>
+                        </tr>
                      </tbody>
                   </table>
                </div>

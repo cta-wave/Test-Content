@@ -11,7 +11,7 @@ How to add content:
 
 ## How does this site work
 
-This website is a SPA coded using Vue.js and PureCSS, it relies on a flat file json database you can find [here](http://dash.akamaized.net/WAVE/js/app.js)
+This website is a SPA coded using Vue.js and PureCSS, it relies on a flat file json database you can find [here](https://dash.akamaized.net/WAVE/js/app.js)
 
 The database is an object containing attributes discribing each asset.
 

@@ -29,7 +29,6 @@ const comps = {
   ">": gt,
   "<=": lte,
   "!=": diff
-
 }
 
 function tokenize(s) {
@@ -49,14 +48,13 @@ function tokenize(s) {
   return terms;
 }
 
-$.getJSON("http://dash.akamaized.net/WAVE/vectors/database.json?t=1600387771", function (data) {
-
+$.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/database.json", function (data) {
   var player = dashjs.MediaPlayer().create();
   let app = new Vue({
     el: '#app',
     data: {
       database: data,
-      baseURL: "http://dash.akamaized.net/WAVE/vectors/", 
+      baseURL: "https://dash.akamaized.net/WAVE/vectors/2021-06-11/",
       search: '',
       results: Object.values(data)
     },
@@ -84,3 +82,4 @@ $.getJSON("http://dash.akamaized.net/WAVE/vectors/database.json?t=1600387771", f
     }
   })
 });
+
