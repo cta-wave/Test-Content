@@ -1,503 +1,1008 @@
 {
-    "./output/avc_sets/15_30_60/t1": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "5100",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t1/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t1.zip"
+    "CFHD" : {
+        "./output/avc_sets/15_30_60/t1": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "5100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t1/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t1.zip"
+        },
+        "./output/avc_sets/15_30_60/t2": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "5000",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "5",
+            "fragmentType": "pframes",
+            "hasSEI": false,
+            "hasVUITiming": false,
+            "visualSampleEntry": "TRUE",
+            "mpdPath": "avc_sets/15_30_60/t2/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t2.zip"
+        },
+        "./output/avc_sets/15_30_60/t3": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4900",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "every_frame",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t3/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t3.zip"
+        },
+        "./output/avc_sets/15_30_60/t10": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4800",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": false,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t10/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t10.zip"
+        },
+        "./output/avc_sets/15_30_60/t11": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "TRUE",
+            "mpdPath": "avc_sets/15_30_60/t11/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t11.zip"
+        },
+        "./output/avc_sets/15_30_60/t12": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4200",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t12/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t12.zip"
+        },
+        "./output/avc_sets/15_30_60/t13": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4300",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t13/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t13.zip"
+        },
+        "./output/avc_sets/15_30_60/t14": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4400",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "5",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t14/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t14.zip"
+        },
+        "./output/avc_sets/15_30_60/t15": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4500",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "pframes",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t15/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t15.zip"
+        },
+        "./output/avc_sets/15_30_60/t16": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4600",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "every_frame",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t16/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t16.zip"
+        },
+        "./output/avc_sets/15_30_60/t17": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4700",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t17/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t17.zip"
+        },
+        "./output/avc_sets/15_30_60/t20": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 60.0,
+                    "bitrate": "6000",
+                    "input": "tos_L2_1920x1080@60_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t20/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t20.zip"
+        },
+        "./output/avc_sets/15_30_60/t21": {
+            "representations": [
+                {
+                    "resolution": "1600x900",
+                    "framerate": 30.0,
+                    "bitrate": "3000",
+                    "input": "tos_K1_1600x900@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t21/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t21.zip"
+        },
+        "./output/avc_sets/15_30_60/t22": {
+            "representations": [
+                {
+                    "resolution": "1280x720",
+                    "framerate": 30.0,
+                    "bitrate": "2000",
+                    "input": "tos_J1_1280x720@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t22/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t22.zip"
+        },
+        "./output/avc_sets/15_30_60/t23": {
+            "representations": [
+                {
+                    "resolution": "1280x720",
+                    "framerate": 60.0,
+                    "bitrate": "3000",
+                    "input": "tos_J1_1280x720@60_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t23/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t23.zip"
+        },
+        "./output/avc_sets/15_30_60/t24": {
+            "representations": [
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1200",
+                    "input": "tos_I1_1024x576@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t24/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t24.zip"
+        },
+        "./output/avc_sets/15_30_60/t25": {
+            "representations": [
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1500",
+                    "input": "tos_I2_1024x576@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t25/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t25.zip"
+        },
+        "./output/avc_sets/15_30_60/t26": {
+            "representations": [
+                {
+                    "resolution": "960x540",
+                    "framerate": 30.0,
+                    "bitrate": "1100",
+                    "input": "tos_H1_960x540@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t26/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t26.zip"
+        },
+        "./output/avc_sets/15_30_60/t27": {
+            "representations": [
+                {
+                    "resolution": "852x480",
+                    "framerate": 30.0,
+                    "bitrate": "1000",
+                    "input": "tos_G1_852x480@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t27/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t27.zip"
+        },
+        "./output/avc_sets/15_30_60/t28": {
+            "representations": [
+                {
+                    "resolution": "768x432",
+                    "framerate": 30.0,
+                    "bitrate": "900",
+                    "input": "tos_F1_768x432@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t28/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t28.zip"
+        },
+        "./output/avc_sets/15_30_60/t29": {
+            "representations": [
+                {
+                    "resolution": "720x404",
+                    "framerate": 30.0,
+                    "bitrate": "800",
+                    "input": "tos_E1_720x404@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t29/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t29.zip"
+        },
+        "./output/avc_sets/15_30_60/t30": {
+            "representations": [
+                {
+                    "resolution": "704x396",
+                    "framerate": 30.0,
+                    "bitrate": "700",
+                    "input": "tos_D1_704x396@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t30/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t30.zip"
+        },
+        "./output/avc_sets/15_30_60/t31": {
+            "representations": [
+                {
+                    "resolution": "640x360",
+                    "framerate": 30.0,
+                    "bitrate": "600",
+                    "input": "tos_C1_640x360@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t31/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t31.zip"
+        },
+        "./output/avc_sets/15_30_60/t32": {
+            "representations": [
+                {
+                    "resolution": "512x288",
+                    "framerate": 30.0,
+                    "bitrate": "450",
+                    "input": "tos_B1_512x288@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t32/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t32.zip"
+        },
+        "./output/avc_sets/15_30_60/t33": {
+            "representations": [
+                {
+                    "resolution": "480x270",
+                    "framerate": 30.0,
+                    "bitrate": "400",
+                    "input": "tos_A1_480x270@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t33/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t33.zip"
+        },
+        "./output/avc_sets/15_30_60/t34": {
+            "representations": [
+                {
+                    "resolution": "480x270",
+                    "framerate": 15.0,
+                    "bitrate": "300",
+                    "input": "tos_A1_480x270@15_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t34/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t34.zip"
+        },
+        "./output/avc_sets/15_30_60/ss1": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "5100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 60.0,
+                    "bitrate": "6000",
+                    "input": "tos_L2_1920x1080@60_60.mp4"
+                },
+                {
+                    "resolution": "1280x720",
+                    "framerate": 60.0,
+                    "bitrate": "3000",
+                    "input": "tos_J1_1280x720@60_60.mp4"
+                },
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1200",
+                    "input": "tos_I1_1024x576@30_60.mp4"
+                },
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1500",
+                    "input": "tos_I2_1024x576@30_60.mp4"
+                },
+                {
+                    "resolution": "768x432",
+                    "framerate": 30.0,
+                    "bitrate": "900",
+                    "input": "tos_F1_768x432@30_60.mp4"
+                },
+                {
+                    "resolution": "512x288",
+                    "framerate": 30.0,
+                    "bitrate": "450",
+                    "input": "tos_B1_512x288@30_60.mp4"
+                },
+                {
+                    "resolution": "480x270",
+                    "framerate": 15.0,
+                    "bitrate": "300",
+                    "input": "tos_A1_480x270@15_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/ss1/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/ss1.zip"
+        }
     },
-    "./output/avc_sets/15_30_60/t2": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "5000",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "5",
-        "fragmentType": "pframes",
-        "hasSEI": false,
-        "hasVUITiming": false,
-        "visualSampleEntry": "TRUE",
-        "mpdPath": "avc_sets/15_30_60/t2/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t2.zip"
-    },
-    "./output/avc_sets/15_30_60/t3": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4900",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "every_frame",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t3/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t3.zip"
-    },
-    "./output/avc_sets/15_30_60/t10": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4800",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": false,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t10/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t10.zip"
-    },
-    "./output/avc_sets/15_30_60/t11": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4100",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "TRUE",
-        "mpdPath": "avc_sets/15_30_60/t11/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t11.zip"
-    },
-    "./output/avc_sets/15_30_60/t12": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4200",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t12/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t12.zip"
-    },
-    "./output/avc_sets/15_30_60/t13": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4300",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t13/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t13.zip"
-    },
-    "./output/avc_sets/15_30_60/t14": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4400",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "5",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t14/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t14.zip"
-    },
-    "./output/avc_sets/15_30_60/t15": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4500",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "pframes",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t15/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t15.zip"
-    },
-    "./output/avc_sets/15_30_60/t16": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4600",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "every_frame",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t16/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t16.zip"
-    },
-    "./output/avc_sets/15_30_60/t17": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "4700",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t17/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t17.zip"
-    },
-    "./output/avc_sets/15_30_60/t20": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 60.0,
-                "bitrate": "6000",
-                "input": "tos_L2_1920x1080@60_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t20/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t20.zip"
-    },
-    "./output/avc_sets/15_30_60/t21": {
-        "representations": [
-            {
-                "resolution": "1600x900",
-                "framerate": 30.0,
-                "bitrate": "3000",
-                "input": "tos_K1_1600x900@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t21/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t21.zip"
-    },
-    "./output/avc_sets/15_30_60/t22": {
-        "representations": [
-            {
-                "resolution": "1280x720",
-                "framerate": 30.0,
-                "bitrate": "2000",
-                "input": "tos_J1_1280x720@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t22/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t22.zip"
-    },
-    "./output/avc_sets/15_30_60/t23": {
-        "representations": [
-            {
-                "resolution": "1280x720",
-                "framerate": 60.0,
-                "bitrate": "3000",
-                "input": "tos_J1_1280x720@60_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t23/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t23.zip"
-    },
-    "./output/avc_sets/15_30_60/t24": {
-        "representations": [
-            {
-                "resolution": "1024x576",
-                "framerate": 30.0,
-                "bitrate": "1200",
-                "input": "tos_I1_1024x576@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t24/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t24.zip"
-    },
-    "./output/avc_sets/15_30_60/t25": {
-        "representations": [
-            {
-                "resolution": "1024x576",
-                "framerate": 30.0,
-                "bitrate": "1500",
-                "input": "tos_I2_1024x576@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t25/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t25.zip"
-    },
-    "./output/avc_sets/15_30_60/t26": {
-        "representations": [
-            {
-                "resolution": "960x540",
-                "framerate": 30.0,
-                "bitrate": "1100",
-                "input": "tos_H1_960x540@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t26/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t26.zip"
-    },
-    "./output/avc_sets/15_30_60/t27": {
-        "representations": [
-            {
-                "resolution": "852x480",
-                "framerate": 30.0,
-                "bitrate": "1000",
-                "input": "tos_G1_852x480@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t27/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t27.zip"
-    },
-    "./output/avc_sets/15_30_60/t28": {
-        "representations": [
-            {
-                "resolution": "768x432",
-                "framerate": 30.0,
-                "bitrate": "900",
-                "input": "tos_F1_768x432@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t28/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t28.zip"
-    },
-    "./output/avc_sets/15_30_60/t29": {
-        "representations": [
-            {
-                "resolution": "720x404",
-                "framerate": 30.0,
-                "bitrate": "800",
-                "input": "tos_E1_720x404@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t29/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t29.zip"
-    },
-    "./output/avc_sets/15_30_60/t30": {
-        "representations": [
-            {
-                "resolution": "704x396",
-                "framerate": 30.0,
-                "bitrate": "700",
-                "input": "tos_D1_704x396@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t30/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t30.zip"
-    },
-    "./output/avc_sets/15_30_60/t31": {
-        "representations": [
-            {
-                "resolution": "640x360",
-                "framerate": 30.0,
-                "bitrate": "600",
-                "input": "tos_C1_640x360@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t31/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t31.zip"
-    },
-    "./output/avc_sets/15_30_60/t32": {
-        "representations": [
-            {
-                "resolution": "512x288",
-                "framerate": 30.0,
-                "bitrate": "450",
-                "input": "tos_B1_512x288@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t32/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t32.zip"
-    },
-    "./output/avc_sets/15_30_60/t33": {
-        "representations": [
-            {
-                "resolution": "480x270",
-                "framerate": 30.0,
-                "bitrate": "400",
-                "input": "tos_A1_480x270@30_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t33/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t33.zip"
-    },
-    "./output/avc_sets/15_30_60/t34": {
-        "representations": [
-            {
-                "resolution": "480x270",
-                "framerate": 15.0,
-                "bitrate": "300",
-                "input": "tos_A1_480x270@15_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/t34/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/t34.zip"
-    },
-    "./output/avc_sets/15_30_60/ss1": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 30.0,
-                "bitrate": "5100",
-                "input": "tos_L1_1920x1080@30_60.mp4"
-            },
-            {
-                "resolution": "1920x1080",
-                "framerate": 60.0,
-                "bitrate": "6000",
-                "input": "tos_L2_1920x1080@60_60.mp4"
-            },
-            {
-                "resolution": "1280x720",
-                "framerate": 60.0,
-                "bitrate": "3000",
-                "input": "tos_J1_1280x720@60_60.mp4"
-            },
-            {
-                "resolution": "1024x576",
-                "framerate": 30.0,
-                "bitrate": "1200",
-                "input": "tos_I1_1024x576@30_60.mp4"
-            },
-            {
-                "resolution": "1024x576",
-                "framerate": 30.0,
-                "bitrate": "1500",
-                "input": "tos_I2_1024x576@30_60.mp4"
-            },
-            {
-                "resolution": "768x432",
-                "framerate": 30.0,
-                "bitrate": "900",
-                "input": "tos_F1_768x432@30_60.mp4"
-            },
-            {
-                "resolution": "512x288",
-                "framerate": 30.0,
-                "bitrate": "450",
-                "input": "tos_B1_512x288@30_60.mp4"
-            },
-            {
-                "resolution": "480x270",
-                "framerate": 15.0,
-                "bitrate": "300",
-                "input": "tos_A1_480x270@15_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": false,
-        "hasVUITiming": true,
-        "visualSampleEntry": "FALSE",
-        "mpdPath": "avc_sets/15_30_60/ss1/stream.mpd",
-        "zipPath": "avc_sets/15_30_60/ss1.zip"
+    "CENC" : {
+        "./output/avc_sets/15_30_60/t1-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "5100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t1_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t1_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t2-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "5000",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "5",
+            "fragmentType": "pframes",
+            "hasSEI": false,
+            "hasVUITiming": false,
+            "visualSampleEntry": "TRUE",
+            "mpdPath": "avc_sets/15_30_60/t2_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t2_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t3-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4900",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "every_frame",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t3_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t3_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t10-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4800",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": false,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t10_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t10_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t11-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4700",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "TRUE",
+            "mpdPath": "avc_sets/15_30_60/t11_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t11_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t12-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4600",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t12_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t12_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t13-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4500",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t13_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t13_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t14-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4400",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "5",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t14_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t14_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t15-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4300",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "pframes",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t15_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t15_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t16-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4200",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "every_frame",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t16_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t16_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t17-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "4100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t17_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t17_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t20-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 60.0,
+                    "bitrate": "6000",
+                    "input": "tos_L2_1920x1080@60_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t20_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t20_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t21-cenc": {
+            "representations": [
+                {
+                    "resolution": "1600x900",
+                    "framerate": 30.0,
+                    "bitrate": "3000",
+                    "input": "tos_K1_1600x900@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t21_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t21_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t22-cenc": {
+            "representations": [
+                {
+                    "resolution": "1280x720",
+                    "framerate": 30.0,
+                    "bitrate": "2000",
+                    "input": "tos_J1_1280x720@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t22_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t22_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t23-cenc": {
+            "representations": [
+                {
+                    "resolution": "1280x720",
+                    "framerate": 60.0,
+                    "bitrate": "3000",
+                    "input": "tos_J1_1280x720@60_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t23_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t23_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t24-cenc": {
+            "representations": [
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1500",
+                    "input": "tos_I1_1024x576@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t24_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t24_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t25-cenc": {
+            "representations": [
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1200",
+                    "input": "tos_I2_1024x576@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t25_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t25_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t26-cenc": {
+            "representations": [
+                {
+                    "resolution": "960x540",
+                    "framerate": 30.0,
+                    "bitrate": "1100",
+                    "input": "tos_H1_960x540@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t26_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t26_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t27-cenc": {
+            "representations": [
+                {
+                    "resolution": "852x480",
+                    "framerate": 30.0,
+                    "bitrate": "1000",
+                    "input": "tos_G1_852x480@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t27_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t27_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t28-cenc": {
+            "representations": [
+                {
+                    "resolution": "768x432",
+                    "framerate": 30.0,
+                    "bitrate": "900",
+                    "input": "tos_F1_768x432@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t28_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t28_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t29-cenc": {
+            "representations": [
+                {
+                    "resolution": "720x404",
+                    "framerate": 30.0,
+                    "bitrate": "800",
+                    "input": "tos_E1_720x404@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t29_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t29_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t30-cenc": {
+            "representations": [
+                {
+                    "resolution": "704x396",
+                    "framerate": 30.0,
+                    "bitrate": "700",
+                    "input": "tos_D1_704x396@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t30_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t30_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t31-cenc": {
+            "representations": [
+                {
+                    "resolution": "640x360",
+                    "framerate": 30.0,
+                    "bitrate": "600",
+                    "input": "tos_C1_640x360@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t31_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t31_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t32-cenc": {
+            "representations": [
+                {
+                    "resolution": "512x288",
+                    "framerate": 30.0,
+                    "bitrate": "450",
+                    "input": "tos_B1_512x288@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t32_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t32_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t33-cenc": {
+            "representations": [
+                {
+                    "resolution": "480x270",
+                    "framerate": 30.0,
+                    "bitrate": "400",
+                    "input": "tos_A1_480x270@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t33_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t33_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/t34-cenc": {
+            "representations": [
+                {
+                    "resolution": "480x270",
+                    "framerate": 15.0,
+                    "bitrate": "300",
+                    "input": "tos_A1_480x270@15_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/t34_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/t34_enc.zip"
+        },
+        "./output/avc_sets/15_30_60/ss1-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "5100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 60.0,
+                    "bitrate": "6000",
+                    "input": "tos_L2_1920x1080@60_60.mp4"
+                },
+                {
+                    "resolution": "1280x720",
+                    "framerate": 60.0,
+                    "bitrate": "3000",
+                    "input": "tos_J1_1280x720@60_60.mp4"
+                },
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1500",
+                    "input": "tos_I1_1024x576@30_60.mp4"
+                },
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30.0,
+                    "bitrate": "1200",
+                    "input": "tos_I2_1024x576@30_60.mp4"
+                },
+                {
+                    "resolution": "768x432",
+                    "framerate": 30.0,
+                    "bitrate": "900",
+                    "input": "tos_F1_768x432@30_60.mp4"
+                },
+                {
+                    "resolution": "512x288",
+                    "framerate": 30.0,
+                    "bitrate": "450",
+                    "input": "tos_B1_512x288@30_60.mp4"
+                },
+                {
+                    "resolution": "480x270",
+                    "framerate": 15.0,
+                    "bitrate": "300",
+                    "input": "tos_A1_480x270@15_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "avc_sets/15_30_60/ss1_enc/stream.mpd",
+            "zipPath": "avc_sets/15_30_60/ss1_enc.zip"
+        }
     }
 }

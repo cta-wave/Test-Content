@@ -56,13 +56,13 @@ $.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/databa
       database: data,
       baseURL: "https://dash.akamaized.net/WAVE/vectors/2021-06-11/",
       search: '',
-      results: Object.values(data)
+      results_cfhd: Object.values(data)[0],
+      results_cenc: Object.values(data)[1]
     },
     methods: {
       play: function(mpd) {
         player.initialize(document.querySelector("#videoPlayer"), mpd, true);
-      }
-      ,
+      },
       searchInDB: function (e) {
         let tokens = tokenize(this.search);
         this.results = Object.values(this.database).filter(element => {
@@ -82,4 +82,3 @@ $.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/databa
     }
   })
 });
-
