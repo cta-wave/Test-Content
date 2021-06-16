@@ -48,7 +48,7 @@ function tokenize(s) {
   return terms;
 }
 
-$.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/database.json", function (data) {
+$.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/gh-pages/database.json", function (data) {
   var player = dashjs.MediaPlayer().create();
   let app = new Vue({
     el: '#app',
