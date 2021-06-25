@@ -2,7 +2,7 @@
 
 This page collects information around CTA WAVE Test Content.
 
-CTA WAVE Test Content is hosted here: https://dash.akamaized.net/WAVE/index.html
+CTA WAVE Test Content is hosted here: https://dash.akamaized.net/WAVE/index.html?cache=clear
 
 
 How to add content:
