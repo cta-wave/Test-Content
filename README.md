@@ -2,7 +2,7 @@
 
 This page collects information around CTA WAVE Test Content.
 
-CTA WAVE Test Content is hosted here: https://dash.akamaized.net/WAVE/index.html?cache=clear
+CTA WAVE Test Content is hosted here: https://cta-wave.github.io/Test-Content/
 
 
 How to add content:
@@ -11,7 +11,7 @@ How to add content:
 
 ## How does this site work
 
-This website is a SPA coded using Vue.js and PureCSS, it relies on a flat file json database you can find [here](https://dash.akamaized.net/WAVE/js/app.js)
+This website is a SPA coded using Vue.js and PureCSS, it relies on a flat file json database you can find [here](https://cta-wave.github.io/Test-Content/database.json)
 
 The database is an object containing attributes discribing each asset.
 
@@ -19,51 +19,24 @@ Each asset has its own idea, generated from the content matrix, and its main typ
 
 ```
 {
-    "wave_avc_sets_1": {
-        "representations": [
-            {
-                "resolution": "1920x1080",
-                "framerate": 60,
-                "bitrate": 7800,
-                "input": "content_files/tos_O1_3840x2160@60_60.mp4"
-            },
-            {
-                "resolution": "1920x1080",
-                "framerate": 60,
-                "bitrate": 6000,
-                "input": "content_files/tos_O2_3840x2160@60_60.mp4"
-            },
-            {
-                "resolution": "1280x720",
-                "framerate": 60,
-                "bitrate": 4500,
-                "input": "content_files/tos_O3_3840x2160@60_60.mp4"
-            },
-            {
-                "resolution": "1280x720",
-                "framerate": 60,
-                "bitrate": 3000,
-                "input": "content_files/tos_N1_3200x1800@60_60.mp4"
-            },
-            {
-                "resolution": "768x432",
-                "framerate": 30,
-                "bitrate": 1100,
-                "input": "content_files/tos_M1_2560x1440@60_60.mp4"
-            },
-            {
-                "resolution": "768x432",
-                "framerate": 30,
-                "bitrate": 730,
-                "input": "content_files/tos_L1_1920x1080@60_60.mp4"
-            }
-        ],
-        "segmentDuration": "2",
-        "fragmentType": "duration",
-        "hasSEI": true,
-        "hasVUITiming": true,
-        "visualSampleEntry": "avc1",
-        "mpdPath": "avc_sets/1/stream.mpd"
+    "CFHD" : {
+        "./output/avc_sets/15_30_60/t1": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30.0,
+                    "bitrate": "5100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "FALSE",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-06-11/avc_sets/15_30_60/t1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-06-11/avc_sets/15_30_60/t1.zip"
+        }
     }
 }
 ```
