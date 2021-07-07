@@ -14,8 +14,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1.zip"
         },
         "avc_sets/15_30_60/t2": {
             "representations": [
@@ -31,8 +31,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t2/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t2/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t2.zip"
         },
         "avc_sets/15_30_60/t3": {
             "representations": [
@@ -48,8 +48,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t3/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t3/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t3.zip"
         },
         "avc_sets/15_30_60/t10": {
             "representations": [
@@ -65,8 +65,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t10/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t10.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t10/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t10.zip"
         },
         "avc_sets/15_30_60/t11": {
             "representations": [
@@ -82,8 +82,8 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t11/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t11.zip"
         },
         "avc_sets/15_30_60/t12": {
             "representations": [
@@ -99,8 +99,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t12/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t12.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t12.zip"
         },
         "avc_sets/15_30_60/t13": {
             "representations": [
@@ -116,8 +116,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t13/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t13.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t13/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t13.zip"
         },
         "avc_sets/15_30_60/t14": {
             "representations": [
@@ -133,8 +133,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t14/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t14.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t14/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t14.zip"
         },
         "avc_sets/15_30_60/t15": {
             "representations": [
@@ -150,8 +150,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t15/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t15/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t15.zip"
         },
         "avc_sets/15_30_60/t16": {
             "representations": [
@@ -167,8 +167,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t16/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t16/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t16.zip"
         },
         "avc_sets/15_30_60/t17": {
             "representations": [
@@ -184,8 +184,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t17/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t17.zip"
         },
         "avc_sets/15_30_60/t20": {
             "representations": [
@@ -201,8 +201,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t20.zip"
         },
         "avc_sets/15_30_60/t21": {
             "representations": [
@@ -218,8 +218,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t21/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t21/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t21.zip"
         },
         "avc_sets/15_30_60/t22": {
             "representations": [
@@ -235,8 +235,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t22/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t22/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t22.zip"
         },
         "avc_sets/15_30_60/t23": {
             "representations": [
@@ -252,8 +252,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t23/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t23/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t23.zip"
         },
         "avc_sets/15_30_60/t24": {
             "representations": [
@@ -269,8 +269,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t24/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t24/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t24.zip"
         },
         "avc_sets/15_30_60/t25": {
             "representations": [
@@ -286,8 +286,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t25/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t25/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t25.zip"
         },
         "avc_sets/15_30_60/t26": {
             "representations": [
@@ -303,8 +303,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t26/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t26/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t26.zip"
         },
         "avc_sets/15_30_60/t27": {
             "representations": [
@@ -320,8 +320,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t27/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t27/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t27.zip"
         },
         "avc_sets/15_30_60/t28": {
             "representations": [
@@ -337,8 +337,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t28/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t28.zip"
         },
         "avc_sets/15_30_60/t29": {
             "representations": [
@@ -354,8 +354,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t29/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t29/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t29.zip"
         },
         "avc_sets/15_30_60/t30": {
             "representations": [
@@ -371,8 +371,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t30/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t30/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t30.zip"
         },
         "avc_sets/15_30_60/t31": {
             "representations": [
@@ -388,8 +388,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t31/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t31/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t31.zip"
         },
         "avc_sets/15_30_60/t32": {
             "representations": [
@@ -405,8 +405,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t32/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t32/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t32.zip"
         },
         "avc_sets/15_30_60/t33": {
             "representations": [
@@ -422,8 +422,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t33/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t33/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t33.zip"
         },
         "avc_sets/15_30_60/t34": {
             "representations": [
@@ -439,8 +439,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t34/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t34/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t34.zip"
         },
         "avc_sets/15_30_60/ss1": {
             "representations": [
@@ -498,8 +498,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/ss1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/ss1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/ss1.zip"
         },
         "avc_sets/12.5_25_50/t1": {
             "representations": [
@@ -515,8 +515,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1.zip"
         },
         "avc_sets/12.5_25_50/t2": {
             "representations": [
@@ -532,8 +532,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t2/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t2/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t2.zip"
         },
         "avc_sets/12.5_25_50/t3": {
             "representations": [
@@ -549,8 +549,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t3/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t3/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t3.zip"
         },
         "avc_sets/12.5_25_50/t10": {
             "representations": [
@@ -566,8 +566,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t10/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t10.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t10/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t10.zip"
         },
         "avc_sets/12.5_25_50/t11": {
             "representations": [
@@ -583,8 +583,8 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t11/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t11.zip"
         },
         "avc_sets/12.5_25_50/t12": {
             "representations": [
@@ -600,8 +600,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t12/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t12.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t12.zip"
         },
         "avc_sets/12.5_25_50/t13": {
             "representations": [
@@ -617,8 +617,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t13/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t13.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t13/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t13.zip"
         },
         "avc_sets/12.5_25_50/t14": {
             "representations": [
@@ -634,8 +634,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t14/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t14.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t14/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t14.zip"
         },
         "avc_sets/12.5_25_50/t15": {
             "representations": [
@@ -651,8 +651,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t15/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t15/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t15.zip"
         },
         "avc_sets/12.5_25_50/t16": {
             "representations": [
@@ -668,8 +668,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t16/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t16/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t16.zip"
         },
         "avc_sets/12.5_25_50/t17": {
             "representations": [
@@ -685,8 +685,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t17/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t17.zip"
         },
         "avc_sets/12.5_25_50/t20": {
             "representations": [
@@ -702,8 +702,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t20.zip"
         },
         "avc_sets/12.5_25_50/t21": {
             "representations": [
@@ -719,8 +719,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t21/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t21/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t21.zip"
         },
         "avc_sets/12.5_25_50/t22": {
             "representations": [
@@ -736,8 +736,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t22/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t22/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t22.zip"
         },
         "avc_sets/12.5_25_50/t23": {
             "representations": [
@@ -753,8 +753,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t23/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t23/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t23.zip"
         },
         "avc_sets/12.5_25_50/t24": {
             "representations": [
@@ -770,8 +770,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t24/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t24/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t24.zip"
         },
         "avc_sets/12.5_25_50/t25": {
             "representations": [
@@ -787,8 +787,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t25/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t25/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t25.zip"
         },
         "avc_sets/12.5_25_50/t26": {
             "representations": [
@@ -804,8 +804,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t26/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t26/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t26.zip"
         },
         "avc_sets/12.5_25_50/t27": {
             "representations": [
@@ -821,8 +821,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t27/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t27/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t27.zip"
         },
         "avc_sets/12.5_25_50/t28": {
             "representations": [
@@ -838,8 +838,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t28/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t28.zip"
         },
         "avc_sets/12.5_25_50/t29": {
             "representations": [
@@ -855,8 +855,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t29/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t29/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t29.zip"
         },
         "avc_sets/12.5_25_50/t30": {
             "representations": [
@@ -872,8 +872,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t30/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t30/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t30.zip"
         },
         "avc_sets/12.5_25_50/t31": {
             "representations": [
@@ -889,8 +889,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t31/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t31/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t31.zip"
         },
         "avc_sets/12.5_25_50/t32": {
             "representations": [
@@ -906,8 +906,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t32/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t32/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t32.zip"
         },
         "avc_sets/12.5_25_50/t33": {
             "representations": [
@@ -923,8 +923,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t33/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t33/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t33.zip"
         },
         "avc_sets/12.5_25_50/t34": {
             "representations": [
@@ -940,8 +940,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t34/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t34/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t34.zip"
         },
         "avc_sets/12.5_25_50/ss1": {
             "representations": [
@@ -999,8 +999,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/ss1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/ss1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/ss1.zip"
         },
         "avc_sets/14.985_29.97_59.94/t1": {
             "representations": [
@@ -1016,8 +1016,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1.zip"
         },
         "avc_sets/14.985_29.97_59.94/t2": {
             "representations": [
@@ -1033,8 +1033,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t2/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t2/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t2.zip"
         },
         "avc_sets/14.985_29.97_59.94/t3": {
             "representations": [
@@ -1050,8 +1050,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t3/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t3/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t3.zip"
         },
         "avc_sets/14.985_29.97_59.94/t10": {
             "representations": [
@@ -1067,8 +1067,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t10/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t10.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t10/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t10.zip"
         },
         "avc_sets/14.985_29.97_59.94/t11": {
             "representations": [
@@ -1084,8 +1084,8 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t11/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t11.zip"
         },
         "avc_sets/14.985_29.97_59.94/t12": {
             "representations": [
@@ -1101,8 +1101,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t12/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t12.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t12.zip"
         },
         "avc_sets/14.985_29.97_59.94/t13": {
             "representations": [
@@ -1118,8 +1118,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t13/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t13.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t13/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t13.zip"
         },
         "avc_sets/14.985_29.97_59.94/t14": {
             "representations": [
@@ -1135,8 +1135,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t14/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t14.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t14/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t14.zip"
         },
         "avc_sets/14.985_29.97_59.94/t15": {
             "representations": [
@@ -1152,8 +1152,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t15/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t15/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t15.zip"
         },
         "avc_sets/14.985_29.97_59.94/t16": {
             "representations": [
@@ -1169,8 +1169,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t16/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t16/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t16.zip"
         },
         "avc_sets/14.985_29.97_59.94/t17": {
             "representations": [
@@ -1186,8 +1186,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t17/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t17.zip"
         },
         "avc_sets/14.985_29.97_59.94/t20": {
             "representations": [
@@ -1203,8 +1203,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t20.zip"
         },
         "avc_sets/14.985_29.97_59.94/t21": {
             "representations": [
@@ -1220,8 +1220,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t21/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t21/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t21.zip"
         },
         "avc_sets/14.985_29.97_59.94/t22": {
             "representations": [
@@ -1237,8 +1237,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t22/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t22/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t22.zip"
         },
         "avc_sets/14.985_29.97_59.94/t23": {
             "representations": [
@@ -1254,8 +1254,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t23/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t23/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t23.zip"
         },
         "avc_sets/14.985_29.97_59.94/t24": {
             "representations": [
@@ -1271,8 +1271,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t24/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t24/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t24.zip"
         },
         "avc_sets/14.985_29.97_59.94/t25": {
             "representations": [
@@ -1288,8 +1288,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t25/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t25/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t25.zip"
         },
         "avc_sets/14.985_29.97_59.94/t26": {
             "representations": [
@@ -1305,8 +1305,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t26/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t26/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t26.zip"
         },
         "avc_sets/14.985_29.97_59.94/t27": {
             "representations": [
@@ -1322,8 +1322,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t27/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t27/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t27.zip"
         },
         "avc_sets/14.985_29.97_59.94/t28": {
             "representations": [
@@ -1339,8 +1339,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t28/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t28.zip"
         },
         "avc_sets/14.985_29.97_59.94/t29": {
             "representations": [
@@ -1356,8 +1356,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t29/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t29/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t29.zip"
         },
         "avc_sets/14.985_29.97_59.94/t30": {
             "representations": [
@@ -1373,8 +1373,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t30/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t30/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t30.zip"
         },
         "avc_sets/14.985_29.97_59.94/t31": {
             "representations": [
@@ -1390,8 +1390,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t31/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t31/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t31.zip"
         },
         "avc_sets/14.985_29.97_59.94/t32": {
             "representations": [
@@ -1407,8 +1407,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t32/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t32/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t32.zip"
         },
         "avc_sets/14.985_29.97_59.94/t33": {
             "representations": [
@@ -1424,8 +1424,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t33/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t33/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t33.zip"
         },
         "avc_sets/14.985_29.97_59.94/t34": {
             "representations": [
@@ -1441,8 +1441,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t34/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t34/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t34.zip"
         },
         "avc_sets/14.985_29.97_59.94/ss1": {
             "representations": [
@@ -1500,8 +1500,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/ss1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/ss1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/ss1.zip"
         }
     },
     "CENC": {
@@ -1519,8 +1519,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t1-cenc/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/15_30_60/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1-cenc/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1-cenc.zip"
         },
         "avc_sets/12.5_25_50/t1-cenc": {
             "representations": [
@@ -1536,8 +1536,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t1-cenc/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/12.5_25_50/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1-cenc/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1-cenc.zip"
         },
         "avc_sets/14.985_29.97_59.94/t1-cenc": {
             "representations": [
@@ -1553,8 +1553,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t1-cenc/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-05/avc_sets/14.985_29.97_59.94/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1-cenc/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1-cenc.zip"
         }
     }
 }
