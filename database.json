@@ -1,506 +1,5 @@
 {
     "CFHD": {
-        "avc_sets/15_30_60/t1": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "5100",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1.zip"
-        },
-        "avc_sets/15_30_60/t2": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "5000",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "5",
-            "fragmentType": "pframes",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t2/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t2.zip"
-        },
-        "avc_sets/15_30_60/t3": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4900",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "every_frame",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t3/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t3.zip"
-        },
-        "avc_sets/15_30_60/t10": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4800",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t10/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t10.zip"
-        },
-        "avc_sets/15_30_60/t11": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4100",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": true,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t11/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t11.zip"
-        },
-        "avc_sets/15_30_60/t12": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4200",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t12/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t12.zip"
-        },
-        "avc_sets/15_30_60/t13": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4300",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t13/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t13.zip"
-        },
-        "avc_sets/15_30_60/t14": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4400",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "5",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t14/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t14.zip"
-        },
-        "avc_sets/15_30_60/t15": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4500",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "pframes",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t15/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t15.zip"
-        },
-        "avc_sets/15_30_60/t16": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4600",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "every_frame",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t16/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t16.zip"
-        },
-        "avc_sets/15_30_60/t17": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "4700",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t17.zip"
-        },
-        "avc_sets/15_30_60/t20": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 60,
-                    "bitrate": "6000",
-                    "input": "tos_L2_1920x1080@60_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t20.zip"
-        },
-        "avc_sets/15_30_60/t21": {
-            "representations": [
-                {
-                    "resolution": "1600x900",
-                    "framerate": 30,
-                    "bitrate": "3000",
-                    "input": "tos_K1_1600x900@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t21/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t21.zip"
-        },
-        "avc_sets/15_30_60/t22": {
-            "representations": [
-                {
-                    "resolution": "1280x720",
-                    "framerate": 30,
-                    "bitrate": "2000",
-                    "input": "tos_J1_1280x720@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t22/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t22.zip"
-        },
-        "avc_sets/15_30_60/t23": {
-            "representations": [
-                {
-                    "resolution": "1280x720",
-                    "framerate": 60,
-                    "bitrate": "3000",
-                    "input": "tos_J1_1280x720@60_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t23/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t23.zip"
-        },
-        "avc_sets/15_30_60/t24": {
-            "representations": [
-                {
-                    "resolution": "1024x576",
-                    "framerate": 30,
-                    "bitrate": "1200",
-                    "input": "tos_I1_1024x576@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t24/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t24.zip"
-        },
-        "avc_sets/15_30_60/t25": {
-            "representations": [
-                {
-                    "resolution": "1024x576",
-                    "framerate": 30,
-                    "bitrate": "1500",
-                    "input": "tos_I2_1024x576@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t25/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t25.zip"
-        },
-        "avc_sets/15_30_60/t26": {
-            "representations": [
-                {
-                    "resolution": "960x540",
-                    "framerate": 30,
-                    "bitrate": "1100",
-                    "input": "tos_H1_960x540@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t26/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t26.zip"
-        },
-        "avc_sets/15_30_60/t27": {
-            "representations": [
-                {
-                    "resolution": "852x480",
-                    "framerate": 30,
-                    "bitrate": "1000",
-                    "input": "tos_G1_852x480@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t27/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t27.zip"
-        },
-        "avc_sets/15_30_60/t28": {
-            "representations": [
-                {
-                    "resolution": "768x432",
-                    "framerate": 30,
-                    "bitrate": "900",
-                    "input": "tos_F1_768x432@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t28.zip"
-        },
-        "avc_sets/15_30_60/t29": {
-            "representations": [
-                {
-                    "resolution": "720x404",
-                    "framerate": 30,
-                    "bitrate": "800",
-                    "input": "tos_E1_720x404@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t29/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t29.zip"
-        },
-        "avc_sets/15_30_60/t30": {
-            "representations": [
-                {
-                    "resolution": "704x396",
-                    "framerate": 30,
-                    "bitrate": "700",
-                    "input": "tos_D1_704x396@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t30/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t30.zip"
-        },
-        "avc_sets/15_30_60/t31": {
-            "representations": [
-                {
-                    "resolution": "640x360",
-                    "framerate": 30,
-                    "bitrate": "600",
-                    "input": "tos_C1_640x360@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t31/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t31.zip"
-        },
-        "avc_sets/15_30_60/t32": {
-            "representations": [
-                {
-                    "resolution": "512x288",
-                    "framerate": 30,
-                    "bitrate": "450",
-                    "input": "tos_B1_512x288@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t32/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t32.zip"
-        },
-        "avc_sets/15_30_60/t33": {
-            "representations": [
-                {
-                    "resolution": "480x270",
-                    "framerate": 30,
-                    "bitrate": "400",
-                    "input": "tos_A1_480x270@30_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t33/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t33.zip"
-        },
-        "avc_sets/15_30_60/t34": {
-            "representations": [
-                {
-                    "resolution": "480x270",
-                    "framerate": 15,
-                    "bitrate": "300",
-                    "input": "tos_A1_480x270@15_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t34/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t34.zip"
-        },
-        "avc_sets/15_30_60/ss1": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 30,
-                    "bitrate": "5100",
-                    "input": "tos_L1_1920x1080@30_60.mp4"
-                },
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 60,
-                    "bitrate": "6000",
-                    "input": "tos_L2_1920x1080@60_60.mp4"
-                },
-                {
-                    "resolution": "1280x720",
-                    "framerate": 60,
-                    "bitrate": "3000",
-                    "input": "tos_J1_1280x720@60_60.mp4"
-                },
-                {
-                    "resolution": "1024x576",
-                    "framerate": 30,
-                    "bitrate": "1200",
-                    "input": "tos_I1_1024x576@30_60.mp4"
-                },
-                {
-                    "resolution": "1024x576",
-                    "framerate": 30,
-                    "bitrate": "1500",
-                    "input": "tos_I2_1024x576@30_60.mp4"
-                },
-                {
-                    "resolution": "768x432",
-                    "framerate": 30,
-                    "bitrate": "900",
-                    "input": "tos_F1_768x432@30_60.mp4"
-                },
-                {
-                    "resolution": "512x288",
-                    "framerate": 30,
-                    "bitrate": "450",
-                    "input": "tos_B1_512x288@30_60.mp4"
-                },
-                {
-                    "resolution": "480x270",
-                    "framerate": 15,
-                    "bitrate": "300",
-                    "input": "tos_A1_480x270@15_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/ss1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/ss1.zip"
-        },
         "avc_sets/12.5_25_50/t1": {
             "representations": [
                 {
@@ -515,8 +14,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t1.zip"
         },
         "avc_sets/12.5_25_50/t2": {
             "representations": [
@@ -532,8 +31,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t2/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t2/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t2.zip"
         },
         "avc_sets/12.5_25_50/t3": {
             "representations": [
@@ -549,8 +48,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t3/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t3/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t3.zip"
         },
         "avc_sets/12.5_25_50/t10": {
             "representations": [
@@ -566,8 +65,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t10/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t10.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t10/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t10.zip"
         },
         "avc_sets/12.5_25_50/t11": {
             "representations": [
@@ -583,8 +82,8 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t11/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t11.zip"
         },
         "avc_sets/12.5_25_50/t12": {
             "representations": [
@@ -600,8 +99,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t12/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t12.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t12.zip"
         },
         "avc_sets/12.5_25_50/t13": {
             "representations": [
@@ -617,8 +116,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t13/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t13.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t13/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t13.zip"
         },
         "avc_sets/12.5_25_50/t14": {
             "representations": [
@@ -634,8 +133,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t14/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t14.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t14/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t14.zip"
         },
         "avc_sets/12.5_25_50/t15": {
             "representations": [
@@ -651,8 +150,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t15/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t15/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t15.zip"
         },
         "avc_sets/12.5_25_50/t16": {
             "representations": [
@@ -668,8 +167,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t16/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t16/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t16.zip"
         },
         "avc_sets/12.5_25_50/t17": {
             "representations": [
@@ -685,8 +184,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t17/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t17.zip"
         },
         "avc_sets/12.5_25_50/t20": {
             "representations": [
@@ -702,8 +201,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t20.zip"
         },
         "avc_sets/12.5_25_50/t21": {
             "representations": [
@@ -719,8 +218,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t21/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t21/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t21.zip"
         },
         "avc_sets/12.5_25_50/t22": {
             "representations": [
@@ -736,8 +235,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t22/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t22/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t22.zip"
         },
         "avc_sets/12.5_25_50/t23": {
             "representations": [
@@ -753,8 +252,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t23/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t23/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t23.zip"
         },
         "avc_sets/12.5_25_50/t24": {
             "representations": [
@@ -770,8 +269,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t24/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t24/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t24.zip"
         },
         "avc_sets/12.5_25_50/t25": {
             "representations": [
@@ -787,8 +286,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t25/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t25/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t25.zip"
         },
         "avc_sets/12.5_25_50/t26": {
             "representations": [
@@ -804,8 +303,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t26/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t26/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t26.zip"
         },
         "avc_sets/12.5_25_50/t27": {
             "representations": [
@@ -821,8 +320,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t27/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t27/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t27.zip"
         },
         "avc_sets/12.5_25_50/t28": {
             "representations": [
@@ -838,8 +337,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t28/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t28.zip"
         },
         "avc_sets/12.5_25_50/t29": {
             "representations": [
@@ -855,8 +354,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t29/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t29/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t29.zip"
         },
         "avc_sets/12.5_25_50/t30": {
             "representations": [
@@ -872,8 +371,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t30/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t30/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t30.zip"
         },
         "avc_sets/12.5_25_50/t31": {
             "representations": [
@@ -889,8 +388,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t31/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t31/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t31.zip"
         },
         "avc_sets/12.5_25_50/t32": {
             "representations": [
@@ -906,8 +405,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t32/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t32/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t32.zip"
         },
         "avc_sets/12.5_25_50/t33": {
             "representations": [
@@ -923,8 +422,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t33/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t33/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t33.zip"
         },
         "avc_sets/12.5_25_50/t34": {
             "representations": [
@@ -940,8 +439,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t34/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t34/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t34.zip"
         },
         "avc_sets/12.5_25_50/ss1": {
             "representations": [
@@ -999,8 +498,528 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/ss1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/ss1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/ss1.zip"
+        }
+    },
+    "CENC": {
+        "avc_sets/12.5_25_50/t1-cenc": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 25,
+                    "bitrate": "5100",
+                    "input": "croatia_L1_1920x1080@25_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t1-cenc/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/12.5_25_50/t1-cenc.zip"
+        },
+        "avc_sets/15_30_60/t1": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "5100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t1.zip"
+        },
+        "avc_sets/15_30_60/t2": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "5000",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "5",
+            "fragmentType": "pframes",
+            "hasSEI": false,
+            "hasVUITiming": true,
+            "visualSampleEntry": "avc3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t2/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t2.zip"
+        },
+        "avc_sets/15_30_60/t3": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4900",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "every_frame",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1+3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t3/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t3.zip"
+        },
+        "avc_sets/15_30_60/t10": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4800",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": false,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1+3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t10/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t10.zip"
+        },
+        "avc_sets/15_30_60/t11": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": true,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t11.zip"
+        },
+        "avc_sets/15_30_60/t12": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4200",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t12.zip"
+        },
+        "avc_sets/15_30_60/t13": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4300",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t13/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t13.zip"
+        },
+        "avc_sets/15_30_60/t14": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4400",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "5",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1+3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t14/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t14.zip"
+        },
+        "avc_sets/15_30_60/t15": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4500",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "pframes",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t15/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t15.zip"
+        },
+        "avc_sets/15_30_60/t16": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4600",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "every_frame",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t16/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t16.zip"
+        },
+        "avc_sets/15_30_60/t17": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "4700",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t17/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t17.zip"
+        },
+        "avc_sets/15_30_60/t20": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 60,
+                    "bitrate": "6000",
+                    "input": "tos_L2_1920x1080@60_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t20.zip"
+        },
+        "avc_sets/15_30_60/t21": {
+            "representations": [
+                {
+                    "resolution": "1600x900",
+                    "framerate": 30,
+                    "bitrate": "3000",
+                    "input": "tos_K1_1600x900@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t21/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t21.zip"
+        },
+        "avc_sets/15_30_60/t22": {
+            "representations": [
+                {
+                    "resolution": "1280x720",
+                    "framerate": 30,
+                    "bitrate": "2000",
+                    "input": "tos_J1_1280x720@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t22/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t22.zip"
+        },
+        "avc_sets/15_30_60/t23": {
+            "representations": [
+                {
+                    "resolution": "1280x720",
+                    "framerate": 60,
+                    "bitrate": "3000",
+                    "input": "tos_J1_1280x720@60_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t23/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t23.zip"
+        },
+        "avc_sets/15_30_60/t24": {
+            "representations": [
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30,
+                    "bitrate": "1200",
+                    "input": "tos_I1_1024x576@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t24/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t24.zip"
+        },
+        "avc_sets/15_30_60/t25": {
+            "representations": [
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30,
+                    "bitrate": "1500",
+                    "input": "tos_I2_1024x576@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t25/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t25.zip"
+        },
+        "avc_sets/15_30_60/t26": {
+            "representations": [
+                {
+                    "resolution": "960x540",
+                    "framerate": 30,
+                    "bitrate": "1100",
+                    "input": "tos_H1_960x540@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t26/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t26.zip"
+        },
+        "avc_sets/15_30_60/t27": {
+            "representations": [
+                {
+                    "resolution": "852x480",
+                    "framerate": 30,
+                    "bitrate": "1000",
+                    "input": "tos_G1_852x480@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t27/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t27.zip"
+        },
+        "avc_sets/15_30_60/t28": {
+            "representations": [
+                {
+                    "resolution": "768x432",
+                    "framerate": 30,
+                    "bitrate": "900",
+                    "input": "tos_F1_768x432@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t28/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t28.zip"
+        },
+        "avc_sets/15_30_60/t29": {
+            "representations": [
+                {
+                    "resolution": "720x404",
+                    "framerate": 30,
+                    "bitrate": "800",
+                    "input": "tos_E1_720x404@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t29/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t29.zip"
+        },
+        "avc_sets/15_30_60/t30": {
+            "representations": [
+                {
+                    "resolution": "704x396",
+                    "framerate": 30,
+                    "bitrate": "700",
+                    "input": "tos_D1_704x396@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t30/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t30.zip"
+        },
+        "avc_sets/15_30_60/t31": {
+            "representations": [
+                {
+                    "resolution": "640x360",
+                    "framerate": 30,
+                    "bitrate": "600",
+                    "input": "tos_C1_640x360@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t31/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t31.zip"
+        },
+        "avc_sets/15_30_60/t32": {
+            "representations": [
+                {
+                    "resolution": "512x288",
+                    "framerate": 30,
+                    "bitrate": "450",
+                    "input": "tos_B1_512x288@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t32/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t32.zip"
+        },
+        "avc_sets/15_30_60/t33": {
+            "representations": [
+                {
+                    "resolution": "480x270",
+                    "framerate": 30,
+                    "bitrate": "400",
+                    "input": "tos_A1_480x270@30_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t33/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t33.zip"
+        },
+        "avc_sets/15_30_60/t34": {
+            "representations": [
+                {
+                    "resolution": "480x270",
+                    "framerate": 15,
+                    "bitrate": "300",
+                    "input": "tos_A1_480x270@15_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t34/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t34.zip"
+        },
+        "avc_sets/15_30_60/ss1": {
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "5100",
+                    "input": "tos_L1_1920x1080@30_60.mp4"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 60,
+                    "bitrate": "6000",
+                    "input": "tos_L2_1920x1080@60_60.mp4"
+                },
+                {
+                    "resolution": "1280x720",
+                    "framerate": 60,
+                    "bitrate": "3000",
+                    "input": "tos_J1_1280x720@60_60.mp4"
+                },
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30,
+                    "bitrate": "1200",
+                    "input": "tos_I1_1024x576@30_60.mp4"
+                },
+                {
+                    "resolution": "1024x576",
+                    "framerate": 30,
+                    "bitrate": "1500",
+                    "input": "tos_I2_1024x576@30_60.mp4"
+                },
+                {
+                    "resolution": "768x432",
+                    "framerate": 30,
+                    "bitrate": "900",
+                    "input": "tos_F1_768x432@30_60.mp4"
+                },
+                {
+                    "resolution": "512x288",
+                    "framerate": 30,
+                    "bitrate": "450",
+                    "input": "tos_B1_512x288@30_60.mp4"
+                },
+                {
+                    "resolution": "480x270",
+                    "framerate": 15,
+                    "bitrate": "300",
+                    "input": "tos_A1_480x270@15_60.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/ss1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/ss1.zip"
         },
         "avc_sets/14.985_29.97_59.94/t1": {
             "representations": [
@@ -1016,8 +1035,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t1.zip"
         },
         "avc_sets/14.985_29.97_59.94/t2": {
             "representations": [
@@ -1033,8 +1052,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t2/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t2/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t2.zip"
         },
         "avc_sets/14.985_29.97_59.94/t3": {
             "representations": [
@@ -1050,8 +1069,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t3/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t3/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t3.zip"
         },
         "avc_sets/14.985_29.97_59.94/t10": {
             "representations": [
@@ -1067,8 +1086,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t10/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t10.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t10/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t10.zip"
         },
         "avc_sets/14.985_29.97_59.94/t11": {
             "representations": [
@@ -1084,8 +1103,8 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t11/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t11.zip"
         },
         "avc_sets/14.985_29.97_59.94/t12": {
             "representations": [
@@ -1101,8 +1120,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t12/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t12.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t12.zip"
         },
         "avc_sets/14.985_29.97_59.94/t13": {
             "representations": [
@@ -1118,8 +1137,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t13/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t13.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t13/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t13.zip"
         },
         "avc_sets/14.985_29.97_59.94/t14": {
             "representations": [
@@ -1135,8 +1154,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t14/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t14.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t14/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t14.zip"
         },
         "avc_sets/14.985_29.97_59.94/t15": {
             "representations": [
@@ -1152,8 +1171,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t15/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t15/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t15.zip"
         },
         "avc_sets/14.985_29.97_59.94/t16": {
             "representations": [
@@ -1169,8 +1188,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t16/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t16/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t16.zip"
         },
         "avc_sets/14.985_29.97_59.94/t17": {
             "representations": [
@@ -1186,8 +1205,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t17/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t17.zip"
         },
         "avc_sets/14.985_29.97_59.94/t20": {
             "representations": [
@@ -1203,8 +1222,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t20.zip"
         },
         "avc_sets/14.985_29.97_59.94/t21": {
             "representations": [
@@ -1220,8 +1239,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t21/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t21/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t21.zip"
         },
         "avc_sets/14.985_29.97_59.94/t22": {
             "representations": [
@@ -1237,8 +1256,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t22/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t22/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t22.zip"
         },
         "avc_sets/14.985_29.97_59.94/t23": {
             "representations": [
@@ -1254,8 +1273,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t23/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t23/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t23.zip"
         },
         "avc_sets/14.985_29.97_59.94/t24": {
             "representations": [
@@ -1271,8 +1290,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t24/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t24/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t24.zip"
         },
         "avc_sets/14.985_29.97_59.94/t25": {
             "representations": [
@@ -1288,8 +1307,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t25/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t25/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t25.zip"
         },
         "avc_sets/14.985_29.97_59.94/t26": {
             "representations": [
@@ -1305,8 +1324,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t26/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t26/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t26.zip"
         },
         "avc_sets/14.985_29.97_59.94/t27": {
             "representations": [
@@ -1322,8 +1341,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t27/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t27/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t27.zip"
         },
         "avc_sets/14.985_29.97_59.94/t28": {
             "representations": [
@@ -1339,8 +1358,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t28/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t28.zip"
         },
         "avc_sets/14.985_29.97_59.94/t29": {
             "representations": [
@@ -1356,8 +1375,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t29/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t29/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t29.zip"
         },
         "avc_sets/14.985_29.97_59.94/t30": {
             "representations": [
@@ -1373,8 +1392,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t30/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t30/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t30.zip"
         },
         "avc_sets/14.985_29.97_59.94/t31": {
             "representations": [
@@ -1390,8 +1409,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t31/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t31/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t31.zip"
         },
         "avc_sets/14.985_29.97_59.94/t32": {
             "representations": [
@@ -1407,8 +1426,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t32/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t32/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t32.zip"
         },
         "avc_sets/14.985_29.97_59.94/t33": {
             "representations": [
@@ -1424,8 +1443,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t33/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t33/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t33.zip"
         },
         "avc_sets/14.985_29.97_59.94/t34": {
             "representations": [
@@ -1441,8 +1460,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t34/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t34/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t34.zip"
         },
         "avc_sets/14.985_29.97_59.94/ss1": {
             "representations": [
@@ -1500,8 +1519,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/ss1/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/ss1/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/ss1.zip"
         }
     },
     "CENC": {
@@ -1519,25 +1538,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1-cenc/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/15_30_60/t1-cenc.zip"
-        },
-        "avc_sets/12.5_25_50/t1-cenc": {
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 25,
-                    "bitrate": "5100",
-                    "input": "croatia_L1_1920x1080@25_60.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": true,
-            "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1-cenc/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/12.5_25_50/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t1-cenc/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/15_30_60/t1-cenc.zip"
         },
         "avc_sets/14.985_29.97_59.94/t1-cenc": {
             "representations": [
@@ -1553,8 +1555,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1-cenc/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-07-07/avc_sets/14.985_29.97_59.94/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t1-cenc/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-09/avc_sets/14.985_29.97_59.94/t1-cenc.zip"
         }
     }
 }
