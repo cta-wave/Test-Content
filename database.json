@@ -1569,8 +1569,8 @@
       "channel": "stereo",
       "segmentDuration": "2.016",
       "chunksPerFragment": "1",
-      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/eac3_sets/at1/stream.mpd",
-      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/eac3_sets/at1.zip"
+      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/eac3_sets/at1/stream.mpd",
+      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/eac3_sets/at1.zip"
     },
     "eac3_sets/at2": {
       "representations": [
@@ -1583,8 +1583,8 @@
       "channel": "stereo",
       "segmentDuration": "2.016",
       "chunksPerFragment": "4",
-      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/eac3_sets/at2/stream.mpd",
-      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/eac3_sets/at2.zip"
+      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/eac3_sets/at2/stream.mpd",
+      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/eac3_sets/at2.zip"
     },
     "eac3_sets/at_dev": {
       "representations": [
@@ -1597,8 +1597,8 @@
       "channel": "stereo",
       "segmentDuration": "2.016",
       "chunksPerFragment": "1",
-      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/eac3_sets/at_dev/stream.mpd",
-      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/eac3_sets/at_dev.zip"
+      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/eac3_sets/at_dev/stream.mpd",
+      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/eac3_sets/at_dev.zip"
     }
   },
   "CA4S": {
@@ -1614,8 +1614,8 @@
       "channel": "stereo",
       "segmentDuration": "2.0",
       "chunksPerFragment": "1",
-      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/ac4_sets/at1/stream.mpd",
-      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/ac4_sets/at1.zip"
+      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at1/stream.mpd",
+      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at1.zip"
     },
     "ac4_sets/at2": {
       "representations": [
@@ -1629,8 +1629,8 @@
       "channel": "stereo",
       "segmentDuration": "2.0",
       "chunksPerFragment": "4",
-      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/ac4_sets/at2/stream.mpd",
-      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/ac4_sets/at2.zip"
+      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at2/stream.mpd",
+      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at2.zip"
     },
     "ac4_sets/at_dev": {
       "representations": [
@@ -1644,8 +1644,8 @@
       "channel": "stereo",
       "segmentDuration": "2.0",
       "chunksPerFragment": "1",
-      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/ac4_sets/at_dev/stream.mpd",
-      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-09-29/ac4_sets/at_dev.zip"
+      "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at_dev/stream.mpd",
+      "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at_dev.zip"
     }
   }
 }
