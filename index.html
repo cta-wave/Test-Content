@@ -83,6 +83,9 @@
                   <li class="nav-item">
                      <a class="nav-link" id="cfhd-cenc-tab" data-toggle="tab" href="#cfhd-cenc" role="tab" >CFHD-CENC</a>
                   </li>
+                  <li class="nav-item">
+                     <a class="nav-link" id="cfhd-splicing-tab" data-toggle="tab" href="#cfhd-splicing" role="tab" >CFHD-SPLICING</a>
+                  </li>
                 </ul>
 
                <div class="tab-content" id="myTabContent">
@@ -147,6 +150,34 @@
                            <td>ClearKey</td>
                            <td>J5kmSWp_XSXaafKzsnmafw</td>
                            <td>ABEiM0RVZneImaq7zN3u_w</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="cfhd-splicing" role="tabpanel" aria-labelledby="cfhd-splicing-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">VSE</th>
+                           <th scope="col">VUI Timing</th>
+                           <th scope="col">Fragment Type</th>
+                           <th scope="col">Picture SEI Timing Message</th>
+                           <th scope="col">Segment Duration</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results_cfhd_splicing" :key="index">
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.visualSampleEntry }}</td>
+                           <td>{{ item.hasVUITiming }}</td>
+                           <td>{{ item.fragmentType }}</td>
+                           <td>{{ item.hasSEI }}</td>
+                           <td>{{ item.segmentDuration }}</td>
                         </tr>
                      </tbody>
                   </table>
