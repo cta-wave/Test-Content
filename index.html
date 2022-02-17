@@ -81,7 +81,7 @@
                     <a class="nav-link active"  id="cfhd-tab" data-toggle="tab" href="#cfhd" role="tab" >CFHD</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" id="cenc-tab" data-toggle="tab" href="#cenc" role="tab" >CENC</a>
+                     <a class="nav-link" id="cfhd-cenc-tab" data-toggle="tab" href="#cfhd-cenc" role="tab" >CFHD-CENC</a>
                   </li>
                 </ul>
 
@@ -116,7 +116,7 @@
                         </tr>
                      </tbody>
                   </table>
-                  <table class="table tab-pane fade show active" id="cenc" role="tabpanel" aria-labelledby="cenc-tab">
+                  <table class="table tab-pane fade show active" id="cfhd-cenc" role="tabpanel" aria-labelledby="cfhd-cenc-tab">
                      <thead class="thead-dark">
                         <tr>
                            <th scope="col">File</th>
@@ -132,7 +132,7 @@
                         </tr>
                      </thead>
                      <tbody>
-                        <tr v-for="(item, index) in results_cenc" :key="index">
+                        <tr v-for="(item, index) in results_cfhd_cenc" :key="index">
                            <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
                            <td>
                               <ol>

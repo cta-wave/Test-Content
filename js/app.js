@@ -56,7 +56,7 @@ $.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/databa
       database: data,
       search: '',
       results_cfhd: Object.values(data)[0],
-      results_cenc: Object.values(data)[1]
+      results_cfhd_cenc: Object.values(data)[1]
     },
     methods: {
       play: function(mpd) {
