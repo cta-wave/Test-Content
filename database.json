@@ -1732,5 +1732,179 @@
       "mpdPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at_dev/stream.mpd",
       "zipPath": "https://dash.akamaized.net/WAVE/vectors/2021-11-17/ac4_sets/at_dev.zip"
     }
-  }
+  },
+    "CAAC": {
+        "caac_sets/aac_lc/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at1/2022-02-11/at1.zip"
+        },
+        "caac_sets/aac_lc/at2/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "4",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at2/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at2/2022-02-11/at2.zip"
+        },
+        "caac_sets/aac_lc/at3/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v1",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at3/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at3/2022-02-11/at3.zip"
+        },
+        "caac_sets/aac_lc/at4/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v1",
+            "editList": "Without",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at4/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at4/2022-02-11/at4.zip"
+        },
+        "caac_sets/aac_lc/at1-cenc/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at1-cenc/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/aac_lc/at1-cenc/2022-02-11/at1-cenc.zip"
+        },
+        "caac_sets/he_aac/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/he_aac/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/he_aac/at1/2022-02-11/at1.zip"
+        },
+        "caac_sets/he_aac_v2/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/he_aac_v2/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/he_aac_v2/at1/2022-02-11/at1.zip"
+        }
+    },
+    "CAAA": {
+        "caaa_sets/aac_lc/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caaa_sets/aac_lc/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caaa_sets/aac_lc/at1/2022-02-11/at1.zip"
+        },
+        "caaa_sets/he_aac/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caaa_sets/he_aac/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caaa_sets/he_aac/at1/2022-02-11/at1.zip"
+        },
+        "caaa_sets/he_aac_v2/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "Stereo",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caaa_sets/he_aac_v2/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caaa_sets/he_aac_v2/at1/2022-02-11/at1.zip"
+        }
+    },
+    "CAMC": {
+        "camc_sets/aac_lc/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "5.1",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/camc_sets/aac_lc/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/camc_sets/aac_lc/at1/2022-02-11/at1.zip"
+        },
+        "camc_sets/he_aac/at1/2022-02-11/": {
+            "representations": {
+                "bitrate": "128000",
+                "samplerate": "48000",
+                "input": "PN01.wav"
+            },
+            "channel": "5.1",
+            "segmentDuration": "1.984",
+            "chunksPerFragment": "1",
+            "trunVersion": "v0",
+            "editList": "With",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/camc_sets/he_aac/at1/2022-02-11/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/camc_sets/he_aac/at1/2022-02-11/at1.zip"
+        }
+    }
 }
