@@ -1643,7 +1643,7 @@
         }
     },
     "CFHD-SPLICING": {
-        "avc_sets/15_30_60/splice_main/2022-01-18/": {
+        "avc_sets/12.5_25_50/splice_main/2022-01-18/": {
             "source": "CTA WAVE - splice_main_croatia_A1_1280x720@25_10 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1658,10 +1658,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_main/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_main/2022-01-18/splice_main.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main/2022-01-18/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main/2022-01-18/splice_main.zip"
         },
-        "avc_sets/15_30_60/splice_main-cenc/2022-01-18/": {
+        "avc_sets/12.5_25_50/splice_main-cenc/2022-01-18/": {
             "source": "CTA WAVE - splice_main_croatia_A1_1280x720@25_10 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1676,10 +1676,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_main-cenc/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_main-cenc/2022-01-18/splice_main-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main-cenc/2022-01-18/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main-cenc/2022-01-18/splice_main-cenc.zip"
         },
-        "avc_sets/15_30_60/splice_ad/2022-01-18/": {
+        "avc_sets/12.5_25_50/splice_ad/2022-01-18/": {
             "source": "CTA WAVE - splice_ad_bbb_AD-A1_1280x720@25_5.76 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1694,10 +1694,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_ad/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_ad/2022-01-18/splice_ad.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad/2022-01-18/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad/2022-01-18/splice_ad.zip"
         },
-        "avc_sets/15_30_60/splice_ad-cenc/2022-01-18/": {
+        "avc_sets/12.5_25_50/splice_ad-cenc/2022-01-18/": {
             "source": "CTA WAVE - splice_ad_bbb_AD-A1_1280x720@25_5.76 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1712,8 +1712,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_ad-cenc/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/splice_ad-cenc/2022-01-18/splice_ad-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad-cenc/2022-01-18/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad-cenc/2022-01-18/splice_ad-cenc.zip"
         }
     },
   "CEAC": {
