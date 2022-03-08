@@ -86,6 +86,9 @@
                   <li class="nav-item">
                      <a class="nav-link" id="cfhd-splicing-tab" data-toggle="tab" href="#cfhd-splicing" role="tab" >CFHD-SPLICING</a>
                   </li>
+                  <li class="nav-item">
+                     <a class="nav-link" id="caac-tab" data-toggle="tab" href="#caac" role="tab" >CAAC</a>
+                  </li>
                 </ul>
 
                <div class="tab-content" id="myTabContent">
@@ -177,6 +180,34 @@
                            <td>{{ item.hasVUITiming }}</td>
                            <td>{{ item.fragmentType }}</td>
                            <td>{{ item.hasSEI }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="caac" role="tabpanel" aria-labelledby="caac-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">Channel Layout</th>
+                           <th scope="col">Chunks per Fragment</th>
+                           <th scope="col">'trun' version</th>
+                           <th scope="col">Edit List</th>
+                           <th scope="col">Segment Duration</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results_caac" :key="index">
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.channel }}</td>
+                           <td>{{ item.chunksPerFragment }}</td>
+                           <td>{{ item.trunVersion }}</td>
+                           <td>{{ item.editList }}</td>
                            <td>{{ item.segmentDuration }}</td>
                         </tr>
                      </tbody>
