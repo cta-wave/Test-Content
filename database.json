@@ -527,7 +527,7 @@
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/ss1/2022-01-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/ss1/2022-01-17/ss1.zip"
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/ss1/2022-01-17/ss1-fixed-issue33.zip"
         },
         "avc_sets/15_30_60/t1/2022-01-17/": {
             "source": "CTA WAVE - tos_L1_1920x1080@30_60 version 2 (2021-08-04)",
@@ -1055,7 +1055,7 @@
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/ss1/2022-01-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/ss1/2022-01-17/ss1.zip"
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/15_30_60/ss1/2022-01-17/ss1-fixed-issue33.zip"
         },
         "avc_sets/14.985_29.97_59.94/t1/2022-01-17/": {
             "source": "CTA WAVE - tos_L1_1920x1080@29.97_60 version 2 (2021-08-03)",
@@ -1583,7 +1583,7 @@
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/14.985_29.97_59.94/ss1/2022-01-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/14.985_29.97_59.94/ss1/2022-01-17/ss1.zip"
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/14.985_29.97_59.94/ss1/2022-01-17/ss1-fixed-issue33.zip"
         }
     },
     "CFHD-CENC": {
