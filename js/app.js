@@ -58,7 +58,11 @@ $.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/databa
       results_cfhd:          data["CFHD"],
       results_cfhd_cenc:     data["CFHD-CENC"],
       results_cfhd_splicing: data["CFHD-SPLICING"],
-      results_caac:          data["CAAC"]
+      results_caac:          data["CAAC"],
+      results_ceac:          data["CEAC"],
+      results_ca4s:          data["CA4S"],
+      results_caaa:          data["CAAA"],
+      results_camc:          data["CAMC"],
     },
     methods: {
       play: function(mpd) {

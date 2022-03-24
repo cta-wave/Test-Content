@@ -89,6 +89,18 @@
                   <li class="nav-item">
                      <a class="nav-link" id="caac-tab" data-toggle="tab" href="#caac" role="tab" >CAAC</a>
                   </li>
+                  <li class="nav-item">
+                     <a class="nav-link" id="ceac-tab" data-toggle="tab" href="#ceac" role="tab" >CEAC</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" id="ca4s-tab" data-toggle="tab" href="#ca4s" role="tab" >CA4S</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" id="caaa-tab" data-toggle="tab" href="#caaa" role="tab" >CAAA</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" id="camc-tab" data-toggle="tab" href="#camc" role="tab" >CAMC</a>
+                  </li>
                 </ul>
 
                <div class="tab-content" id="myTabContent">
@@ -198,6 +210,118 @@
                      </thead>
                      <tbody>
                         <tr v-for="(item, index) in results_caac" :key="index">
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.channel }}</td>
+                           <td>{{ item.chunksPerFragment }}</td>
+                           <td>{{ item.trunVersion }}</td>
+                           <td>{{ item.editList }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="ceac" role="tabpanel" aria-labelledby="ceac-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">Channel Layout</th>
+                           <th scope="col">Chunks per Fragment</th>
+                           <th scope="col">'trun' version</th>
+                           <th scope="col">Edit List</th>
+                           <th scope="col">Segment Duration</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results_ceac" :key="index">
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.channel }}</td>
+                           <td>{{ item.chunksPerFragment }}</td>
+                           <td>{{ item.trunVersion }}</td>
+                           <td>{{ item.editList }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="ca4s" role="tabpanel" aria-labelledby="ca4s-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">Channel Layout</th>
+                           <th scope="col">Chunks per Fragment</th>
+                           <th scope="col">'trun' version</th>
+                           <th scope="col">Edit List</th>
+                           <th scope="col">Segment Duration</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results_ca4s" :key="index">
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.channel }}</td>
+                           <td>{{ item.chunksPerFragment }}</td>
+                           <td>{{ item.trunVersion }}</td>
+                           <td>{{ item.editList }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="caaa" role="tabpanel" aria-labelledby="caaa-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">Channel Layout</th>
+                           <th scope="col">Chunks per Fragment</th>
+                           <th scope="col">'trun' version</th>
+                           <th scope="col">Edit List</th>
+                           <th scope="col">Segment Duration</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results_caaa" :key="index">
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.channel }}</td>
+                           <td>{{ item.chunksPerFragment }}</td>
+                           <td>{{ item.trunVersion }}</td>
+                           <td>{{ item.editList }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="camc" role="tabpanel" aria-labelledby="camc-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">Channel Layout</th>
+                           <th scope="col">Chunks per Fragment</th>
+                           <th scope="col">'trun' version</th>
+                           <th scope="col">Edit List</th>
+                           <th scope="col">Segment Duration</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results_camc" :key="index">
                            <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
                            <td>
                               <ol>
