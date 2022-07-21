@@ -468,7 +468,7 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2022-07-20/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2022-07-20/t34.zip"
         },
-        "caac_sets/12.5_25_50/ss1/2022-07-20": {
+        "cfhd_sets/12.5_25_50/ss1/2022-07-20": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -531,8 +531,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/12.5_25_50/ss1/2022-07-20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/12.5_25_50/ss1/2022-07-20/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/ss1/2022-07-20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/ss1/2022-07-20/ss1.zip"
         },
         "cfhd_sets/15_30_60/t1/2022-07-20/": {
             "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
@@ -1002,7 +1002,7 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2022-07-20/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2022-07-20/t34.zip"
         },
-        "caac_sets/15_30_60/ss1/2022-07-20": {
+        "cfhd_sets/15_30_60/ss1/2022-07-20": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -1065,8 +1065,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/15_30_60/ss1/2022-07-20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/15_30_60/ss1/2022-07-20/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/ss1/2022-07-20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/ss1/2022-07-20/ss1.zip"
         },
         "cfhd_sets/14.985_29.97_59.94/t1/2022-07-20/": {
             "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
@@ -1536,7 +1536,7 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2022-07-20/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2022-07-20/t34.zip"
         },
-        "caac_sets/14.985_29.97_59.94/ss1/2022-07-20": {
+        "cfhd_sets/14.985_29.97_59.94/ss1/2022-07-20": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -1599,8 +1599,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/14.985_29.97_59.94/ss1/2022-07-20/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/14.985_29.97_59.94/ss1/2022-07-20/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/ss1/2022-07-20/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/ss1/2022-07-20/ss1.zip"
         }
     },
     "CHDF": {
