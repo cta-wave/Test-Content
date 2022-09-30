@@ -531,7 +531,7 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/ss1/2022-09-30/stream.mpd",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/ss1/2022-09-30/stream3.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/ss1/2022-09-30/ss1.zip"
         },
         "cfhd_sets/15_30_60/t1/2022-09-30/": {
@@ -1065,7 +1065,7 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/ss1/2022-09-30/stream.mpd",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/ss1/2022-09-30/stream3.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/ss1/2022-09-30/ss1.zip"
         },
         "cfhd_sets/14.985_29.97_59.94/t1/2022-09-30/": {
@@ -1599,7 +1599,7 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/ss1/2022-09-30/stream.mpd",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/ss1/2022-09-30/stream3.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/ss1/2022-09-30/ss1.zip"
         }
     },
