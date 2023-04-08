@@ -8,9 +8,68 @@
       integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
    <link rel="stylesheet" href="styles/main.css">
-
-
 </head>
+
+<dialog id="eulaDialog">
+   <div class="popup">
+      <form method="dialog">
+         <p>
+         <b>WAVE TEST MATERIAL USER AGREEMENT</b>
+         <br/><br/>
+         This user agreement (the “License ”) is entered into and is effective as of the date of content download between you (“Test Material User”) and the Consumer Technology Association (CTA)® located at 1919 South Eads Street, Arlington, VA 22202.
+         <br/><br/>
+         <b>WHEREAS</b>, CTA Web Application Video Ecosystem (“WAVE”) is an industry project on voluntary consensus technical standards and best practices for commercial internet video interoperability, organized and sponsored by CTA. The WAVE project provides encoded, digital entertainment audio and video content which may be used for testing purposes to verify conformance to WAVE Standards (“Test Material”).
+         <br/><br/>
+         <b>TERMS:</b>
+         <br/><br/>
+         1.  <u>License</u>. In consideration of the terms set forth below, CTA grants Test Material User license to use the Test Material for WAVE testing purposes subject to <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Public Licensure</a> (“CCA 4.0”).  Test Material User receives no patent, trademark or other similar rights in the Test Material under this License.
+         <br/><br/>
+         2. <u>Media Format.</u> The license granted includes the right to change the media format of the Test Material.  
+         <br/><br/>
+         3.  <u>No Additional Restrictions.</u> Test Material User may not apply legal terms or technological measures to the Test Material or any derivative works that legally or practically restrict other users from doing anything that would otherwise be permitted if they licensed the Test Material directly from CTA. 
+         <br/><br/>
+         4.	<u>Ownership.</u> For purposes of this public license, Test Material User shall make no claim as to any ownership interest in the Test Materials or any portion thereof.
+         <br/><br/>
+         5.  <u>No Endorsement.</u>  Nothing in this License constitutes or may be construed as permission to assert or imply that Test Material Users are, or that Test Material Users’ use of the Test Material is, connected with, or sponsored, endorsed, or granted official status by, CTA or others designated to receive attribution.
+         <br/><br/>
+         6. <u>Attribution.</u>  When using the Test Material, Test Material Users must comply with CCA 4.0 Section 3. Test Material User must not in any way suggest that CTA endorses Test Material User or its use of the Test Material.
+         <br/><br/>
+         7.  <u>Disclaimer of Warranties/Limitation of Liability.</u>
+         <br/><br/>
+         a.	CTA offers the Test Material as-is and as-available and makes no representations or warranties of any kind concerning the Test Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. 
+         <br/><br/>
+         b.	To the extent possible, in no event will CTA be liable to Test Material User on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this License or use of the Test Material, even if CTA has been advised of the possibility of such losses, costs, expenses, or damages. 
+         <br/><br/>
+         c.	The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+         <br/>
+         d.	Indemnity.  Test Material User shall indemnify and hold CTA harmless against and from any third-party claim resulting from Test Material User’s use of the Test Materials. 
+         <br/><br/>
+         e.	IN NO EVENT SHALL CTA BE LIABLE TO COMPANY FOR AN AMOUNT IN EXCESS OF THE AMOUNT OF FEES PAID BY COMPANY UNDER THIS AGREEMENT FOR THE CALENDAR YEAR IN QUESTION BASED ON ANY CLAIM ARISING OUT OF OR RELATED TO THIS AGREEMENT, REGARDLESS OF WHETHER THE CLAIM IS BASED ON WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY.
+         <br/><br/>
+         8.  <u>Other Terms and Conditions.</u>
+         <br/><br/>
+         a.	CTA shall not be bound by any additional or different terms or conditions communicated by Test Material User unless expressly agreed in writing.
+         <br/><br/>
+         b.	CCA 4.0 as integrated into this License contains the complete and exclusive statement of the agreement between the parties and supersedes all prior agreements and understandings (whether oral or written) between the parties.  This License may not be modified or amended except in a writing executed by both parties that refers to this License.  
+         <br/><br/>
+         9.  <u>Interpretation.</u>
+         <br/><br/>
+         a.	To the extent possible, if any provision of this License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this License without affecting the enforceability of the remaining terms and conditions.
+         <br/><br/>
+         b.	No term or condition of this License will be waived and no failure to comply consented to unless expressly agreed to by CTA in writing.
+         <br/><br/>
+         c.	Nothing in this License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to CTA or Test Material User, including from the legal processes of any jurisdiction or authority.
+         <br/><br/>
+         10.  <u>Governing Law.</u> This Agreement and all its rights and obligations of the parties relating hereto will be governed by and construed in accordance with the internal laws of the Commonwealth of Virginia without giving effect to any conflicts of law rules that would cause the application of the laws of any other jurisdiction. Any controversy or claim arising out of or relating to this Agreement or the breach thereof (except for an action for injunctive relief) may be resolved by arbitration held in Arlington County, Commonwealth of Virginia, in accordance with Rules of the American Arbitration Association in effect at the time the arbitration is initiated, and judgment upon the award rendered by the arbitrators may be entered in any court jurisdiction thereof, Company agrees to submit to the exclusive jurisdiction of the State and Federal courts in the Commonwealth of Virginia.
+         <br/><br/>
+         11.  <u>Miscellaneous.</u>  The parties to this Agreement are independent contractors with respect to each other, and nothing in this Agreement shall create any association, partnership, joint venture or agency relationship between the parties.  
+         </p>
+         <div>
+            <button id="acceptEula" value="default">I accept</button>
+         </div>
+      </form>
+   </div>
+</dialog>
 
 <div id="popup1" class="overlay">
    <div class="popup">
@@ -55,23 +114,18 @@
          </div>
       </nav>
       <div id='playerWapper' class="mb-5 ">
-
          <div class="row h-100">
             <div class="col">
             </div>
             <div class="col-5 text-center h-100 align-self-center">
-
                <video class="h-100 align-self-center" id="videoPlayer" controls></video>
-
             </div>
             <div class="col">
             </div>
          </div>
-
-
       </div>
       <div class="container">
-         <div  class="row">
+         <div class="row">
             <div class="col">
             </div>
             <div class="col-10 text-center h-100 align-self-center">
@@ -344,9 +398,9 @@
          </div>      
       </div>
 
+   </div>
+   </div>
 
-   </div>
-   </div>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
       integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
@@ -358,6 +412,7 @@
    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
    <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
    <script src="js/app.js"></script>
+   <script src="js/eula.js"></script>
 </body>
 
 </html>
