@@ -1,7 +1,7 @@
 {
     "CFHD": {
-        "cfhd_sets/12.5_25_50/t1/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t1/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -15,11 +15,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1/2022-10-17/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1/2023-04-06/t1.zip"
         },
-        "cfhd_sets/12.5_25_50/t2/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t2/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -33,11 +33,11 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t2/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t2/2022-10-17/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t2/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t2/2023-04-06/t2.zip"
         },
-        "cfhd_sets/12.5_25_50/t3/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t3/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -51,11 +51,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t3/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t3/2022-10-17/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t3/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t3/2023-04-06/t3.zip"
         },
-        "cfhd_sets/12.5_25_50/t10/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t10/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -68,12 +68,12 @@
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t10/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t10/2022-10-17/t10.zip"
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t10/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t10/2023-04-06/t10.zip"
         },
-        "cfhd_sets/12.5_25_50/t11/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t11/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -87,11 +87,11 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t11/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t11/2022-10-17/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t11/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t11/2023-04-06/t11.zip"
         },
-        "cfhd_sets/12.5_25_50/t12/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t12/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -104,12 +104,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t12/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t12/2022-10-17/t12.zip"
+            "visualSampleEntry": "avc3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t12/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t12/2023-04-06/t12.zip"
         },
-        "cfhd_sets/12.5_25_50/t13/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t13/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -122,12 +122,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t13/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t13/2022-10-17/t13.zip"
+            "visualSampleEntry": "avc1+3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t13/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t13/2023-04-06/t13.zip"
         },
-        "cfhd_sets/12.5_25_50/t14/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t14/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -140,12 +140,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t14/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t14/2022-10-17/t14.zip"
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t14/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t14/2023-04-06/t14.zip"
         },
-        "cfhd_sets/12.5_25_50/t15/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t15/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -155,15 +155,15 @@
                 }
             ],
             "segmentDuration": "2",
-            "fragmentType": "pframes",
+            "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t15/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t15/2022-10-17/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t15/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t15/2023-04-06/t15.zip"
         },
-        "cfhd_sets/12.5_25_50/t16/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t16/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -173,15 +173,15 @@
                 }
             ],
             "segmentDuration": "2",
-            "fragmentType": "every_frame",
+            "fragmentType": "pframes",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t16/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t16/2022-10-17/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t16/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t16/2023-04-06/t16.zip"
         },
-        "cfhd_sets/12.5_25_50/t17/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/t17/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -191,15 +191,15 @@
                 }
             ],
             "segmentDuration": "2",
-            "fragmentType": "duration",
+            "fragmentType": "every_frame",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t17/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t17/2022-10-17/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t17/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t17/2023-04-06/t17.zip"
         },
-        "cfhd_sets/12.5_25_50/t19/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t19/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -213,11 +213,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t19/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t19/2022-10-17/t19.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t19/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t19/2023-04-06/t19.zip"
         },
-        "cfhd_sets/12.5_25_50/t21/2022-10-17/": {
-            "source": "croatia_K1_1600x900@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t21/2023-04-06/": {
+            "source": "croatia_K1_1600x900@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1600x900",
@@ -231,11 +231,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t21/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t21/2022-10-17/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t21/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t21/2023-04-06/t21.zip"
         },
-        "cfhd_sets/12.5_25_50/t22/2022-10-17/": {
-            "source": "croatia_J1_1280x720@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t22/2023-04-06/": {
+            "source": "croatia_J1_1280x720@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1280x720",
@@ -249,11 +249,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t22/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t22/2022-10-17/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t22/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t22/2023-04-06/t22.zip"
         },
-        "cfhd_sets/12.5_25_50/t23/2022-10-17/": {
-            "source": "croatia_J1_1280x720@50_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t23/2023-04-06/": {
+            "source": "croatia_J1_1280x720@50_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1280x720",
@@ -267,11 +267,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t23/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t23/2022-10-17/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t23/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t23/2023-04-06/t23.zip"
         },
-        "cfhd_sets/12.5_25_50/t24/2022-10-17/": {
-            "source": "croatia_I1_1024x576@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t24/2023-04-06/": {
+            "source": "croatia_I1_1024x576@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1024x576",
@@ -285,11 +285,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t24/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t24/2022-10-17/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t24/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t24/2023-04-06/t24.zip"
         },
-        "cfhd_sets/12.5_25_50/t25/2022-10-17/": {
-            "source": "croatia_I2_1024x576@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t25/2023-04-06/": {
+            "source": "croatia_I2_1024x576@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1024x576",
@@ -303,11 +303,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t25/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t25/2022-10-17/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t25/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t25/2023-04-06/t25.zip"
         },
-        "cfhd_sets/12.5_25_50/t26/2022-10-17/": {
-            "source": "croatia_H1_960x540@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t26/2023-04-06/": {
+            "source": "croatia_H1_960x540@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "960x540",
@@ -321,11 +321,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t26/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t26/2022-10-17/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t26/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t26/2023-04-06/t26.zip"
         },
-        "cfhd_sets/12.5_25_50/t27/2022-10-17/": {
-            "source": "croatia_G1_852x480@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t27/2023-04-06/": {
+            "source": "croatia_G1_852x480@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "852x480",
@@ -339,11 +339,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t27/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t27/2022-10-17/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t27/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t27/2023-04-06/t27.zip"
         },
-        "cfhd_sets/12.5_25_50/t28/2022-10-17/": {
-            "source": "croatia_F1_768x432@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t28/2023-04-06/": {
+            "source": "croatia_F1_768x432@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "768x432",
@@ -357,11 +357,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t28/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t28/2022-10-17/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t28/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t28/2023-04-06/t28.zip"
         },
-        "cfhd_sets/12.5_25_50/t29/2022-10-17/": {
-            "source": "croatia_E1_720x404@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t29/2023-04-06/": {
+            "source": "croatia_E1_720x404@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "720x404",
@@ -375,11 +375,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t29/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t29/2022-10-17/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t29/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t29/2023-04-06/t29.zip"
         },
-        "cfhd_sets/12.5_25_50/t30/2022-10-17/": {
-            "source": "croatia_D1_704x396@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t30/2023-04-06/": {
+            "source": "croatia_D1_704x396@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "704x396",
@@ -393,11 +393,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t30/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t30/2022-10-17/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t30/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t30/2023-04-06/t30.zip"
         },
-        "cfhd_sets/12.5_25_50/t31/2022-10-17/": {
-            "source": "croatia_C1_640x360@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t31/2023-04-06/": {
+            "source": "croatia_C1_640x360@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "640x360",
@@ -411,11 +411,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t31/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t31/2022-10-17/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t31/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t31/2023-04-06/t31.zip"
         },
-        "cfhd_sets/12.5_25_50/t32/2022-10-17/": {
-            "source": "croatia_B1_512x288@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t32/2023-04-06/": {
+            "source": "croatia_B1_512x288@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "512x288",
@@ -429,11 +429,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t32/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t32/2022-10-17/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t32/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t32/2023-04-06/t32.zip"
         },
-        "cfhd_sets/12.5_25_50/t33/2022-10-17/": {
-            "source": "croatia_A1_480x270@25_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t33/2023-04-06/": {
+            "source": "croatia_A1_480x270@25_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "480x270",
@@ -447,11 +447,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t33/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t33/2022-10-17/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t33/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t33/2023-04-06/t33.zip"
         },
-        "cfhd_sets/12.5_25_50/t34/2022-10-17/": {
-            "source": "croatia_A1_480x270@12.5_60 version 2 (2021-08-04)",
+        "cfhd_sets/12.5_25_50/t34/2023-04-06/": {
+            "source": "croatia_A1_480x270@12.5_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "480x270",
@@ -465,8 +465,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2022-10-17/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2023-04-06/t34.zip"
         },
         "cfhd_sets/12.5_25_50/ss1/2022-10-17": {
             "source": "CTA WAVE",
@@ -534,8 +534,26 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/ss1/2022-10-17/avc_12.5_25_50_ss1_stream_v4.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/ss1/2022-10-17/ss1_v4.zip"
         },
-        "cfhd_sets/15_30_60/t1/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/12.5_25_50/tLD/2023-04-06/": {
+            "source": "croatia_LD1_1920x1080@25_7200 version 4 (2023-02-15)",
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 25,
+                    "bitrate": "5100",
+                    "input": "croatia_LD1_1920x1080@25_7200.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/tLD/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/tLD/2023-04-06/tLD.zip"
+        },
+        "cfhd_sets/15_30_60/t1/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -549,11 +567,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1/2022-10-17/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1/2023-04-06/t1.zip"
         },
-        "cfhd_sets/15_30_60/t2/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t2/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -567,11 +585,11 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t2/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t2/2022-10-17/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t2/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t2/2023-04-06/t2.zip"
         },
-        "cfhd_sets/15_30_60/t3/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t3/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -585,11 +603,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t3/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t3/2022-10-17/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t3/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t3/2023-04-06/t3.zip"
         },
-        "cfhd_sets/15_30_60/t10/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t10/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -602,12 +620,12 @@
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t10/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t10/2022-10-17/t10.zip"
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t10/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t10/2023-04-06/t10.zip"
         },
-        "cfhd_sets/15_30_60/t11/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t11/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -621,11 +639,11 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t11/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t11/2022-10-17/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t11/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t11/2023-04-06/t11.zip"
         },
-        "cfhd_sets/15_30_60/t12/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t12/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -638,12 +656,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t12/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t12/2022-10-17/t12.zip"
+            "visualSampleEntry": "avc3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t12/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t12/2023-04-06/t12.zip"
         },
-        "cfhd_sets/15_30_60/t13/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t13/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -656,12 +674,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t13/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t13/2022-10-17/t13.zip"
+            "visualSampleEntry": "avc1+3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t13/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t13/2023-04-06/t13.zip"
         },
-        "cfhd_sets/15_30_60/t14/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t14/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -674,12 +692,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t14/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t14/2022-10-17/t14.zip"
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t14/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t14/2023-04-06/t14.zip"
         },
-        "cfhd_sets/15_30_60/t15/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t15/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -689,15 +707,15 @@
                 }
             ],
             "segmentDuration": "2",
-            "fragmentType": "pframes",
+            "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t15/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t15/2022-10-17/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t15/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t15/2023-04-06/t15.zip"
         },
-        "cfhd_sets/15_30_60/t16/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t16/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -707,15 +725,15 @@
                 }
             ],
             "segmentDuration": "2",
-            "fragmentType": "every_frame",
+            "fragmentType": "pframes",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t16/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t16/2022-10-17/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t16/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t16/2023-04-06/t16.zip"
         },
-        "cfhd_sets/15_30_60/t17/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t17/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -725,15 +743,15 @@
                 }
             ],
             "segmentDuration": "2",
-            "fragmentType": "duration",
+            "fragmentType": "every_frame",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t17/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t17/2022-10-17/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t17/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t17/2023-04-06/t17.zip"
         },
-        "cfhd_sets/15_30_60/t19/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t19/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -747,11 +765,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t19/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t19/2022-10-17/t19.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t19/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t19/2023-04-06/t19.zip"
         },
-        "cfhd_sets/15_30_60/t21/2022-10-17/": {
-            "source": "tos_K1_1600x900@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t21/2023-04-06/": {
+            "source": "tos_K1_1600x900@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1600x900",
@@ -765,11 +783,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t21/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t21/2022-10-17/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t21/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t21/2023-04-06/t21.zip"
         },
-        "cfhd_sets/15_30_60/t22/2022-10-17/": {
-            "source": "tos_J1_1280x720@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t22/2023-04-06/": {
+            "source": "tos_J1_1280x720@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1280x720",
@@ -783,11 +801,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t22/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t22/2022-10-17/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t22/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t22/2023-04-06/t22.zip"
         },
-        "cfhd_sets/15_30_60/t23/2022-10-17/": {
-            "source": "tos_J1_1280x720@60_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t23/2023-04-06/": {
+            "source": "tos_J1_1280x720@60_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1280x720",
@@ -801,11 +819,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t23/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t23/2022-10-17/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t23/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t23/2023-04-06/t23.zip"
         },
-        "cfhd_sets/15_30_60/t24/2022-10-17/": {
-            "source": "tos_I1_1024x576@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t24/2023-04-06/": {
+            "source": "tos_I1_1024x576@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1024x576",
@@ -819,11 +837,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t24/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t24/2022-10-17/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t24/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t24/2023-04-06/t24.zip"
         },
-        "cfhd_sets/15_30_60/t25/2022-10-17/": {
-            "source": "tos_I2_1024x576@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t25/2023-04-06/": {
+            "source": "tos_I2_1024x576@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1024x576",
@@ -837,11 +855,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t25/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t25/2022-10-17/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t25/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t25/2023-04-06/t25.zip"
         },
-        "cfhd_sets/15_30_60/t26/2022-10-17/": {
-            "source": "tos_H1_960x540@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t26/2023-04-06/": {
+            "source": "tos_H1_960x540@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "960x540",
@@ -855,11 +873,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t26/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t26/2022-10-17/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t26/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t26/2023-04-06/t26.zip"
         },
-        "cfhd_sets/15_30_60/t27/2022-10-17/": {
-            "source": "tos_G1_852x480@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t27/2023-04-06/": {
+            "source": "tos_G1_852x480@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "852x480",
@@ -873,11 +891,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t27/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t27/2022-10-17/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t27/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t27/2023-04-06/t27.zip"
         },
-        "cfhd_sets/15_30_60/t28/2022-10-17/": {
-            "source": "tos_F1_768x432@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t28/2023-04-06/": {
+            "source": "tos_F1_768x432@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "768x432",
@@ -891,11 +909,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t28/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t28/2022-10-17/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t28/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t28/2023-04-06/t28.zip"
         },
-        "cfhd_sets/15_30_60/t29/2022-10-17/": {
-            "source": "tos_E1_720x404@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t29/2023-04-06/": {
+            "source": "tos_E1_720x404@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "720x404",
@@ -909,11 +927,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t29/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t29/2022-10-17/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t29/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t29/2023-04-06/t29.zip"
         },
-        "cfhd_sets/15_30_60/t30/2022-10-17/": {
-            "source": "tos_D1_704x396@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t30/2023-04-06/": {
+            "source": "tos_D1_704x396@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "704x396",
@@ -927,11 +945,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t30/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t30/2022-10-17/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t30/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t30/2023-04-06/t30.zip"
         },
-        "cfhd_sets/15_30_60/t31/2022-10-17/": {
-            "source": "tos_C1_640x360@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t31/2023-04-06/": {
+            "source": "tos_C1_640x360@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "640x360",
@@ -945,11 +963,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t31/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t31/2022-10-17/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t31/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t31/2023-04-06/t31.zip"
         },
-        "cfhd_sets/15_30_60/t32/2022-10-17/": {
-            "source": "tos_B1_512x288@30_60 version 2 (2021-08-04)",
+        "cfhd_sets/15_30_60/t32/2023-04-06/": {
+            "source": "tos_B1_512x288@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "512x288",
@@ -963,11 +981,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t32/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t32/2022-10-17/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t32/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t32/2023-04-06/t32.zip"
         },
-        "cfhd_sets/15_30_60/t33/2022-10-17/": {
-            "source": "tos_A1_480x270@30_60 version 2 (2021-08-03)",
+        "cfhd_sets/15_30_60/t33/2023-04-06/": {
+            "source": "tos_A1_480x270@30_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "480x270",
@@ -981,11 +999,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t33/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t33/2022-10-17/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t33/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t33/2023-04-06/t33.zip"
         },
-        "cfhd_sets/15_30_60/t34/2022-10-17/": {
-            "source": "tos_A1_480x270@15_60 version 2 (2021-08-03)",
+        "cfhd_sets/15_30_60/t34/2023-04-06/": {
+            "source": "tos_A1_480x270@15_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "480x270",
@@ -999,8 +1017,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2022-10-17/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2023-04-06/t34.zip"
         },
         "cfhd_sets/15_30_60/ss1/2022-10-17": {
             "source": "CTA WAVE",
@@ -1068,8 +1086,26 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/ss1/2022-10-17/avc_15_30_60_ss1_stream_v4.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/ss1/2022-10-17/ss1_v4.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t1/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/tLD/2023-04-06/": {
+            "source": "tos_LD1_1920x1080@30_7200 version 4 (2023-02-13)",
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "5100",
+                    "input": "tos_LD1_1920x1080@30_7200.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "duration",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/tLD/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/tLD/2023-04-06/tLD.zip"
+        },
+        "cfhd_sets/14.985_29.97_59.94/t1/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1083,11 +1119,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1/2022-10-17/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1/2023-04-06/t1.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t2/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t2/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1101,11 +1137,11 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t2/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t2/2022-10-17/t2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t2/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t2/2023-04-06/t2.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t3/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t3/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1119,11 +1155,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t3/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t3/2022-10-17/t3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t3/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t3/2023-04-06/t3.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t10/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t10/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1136,12 +1172,12 @@
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t10/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t10/2022-10-17/t10.zip"
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t10/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t10/2023-04-06/t10.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t11/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t11/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1155,11 +1191,11 @@
             "hasSEI": true,
             "hasVUITiming": true,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t11/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t11/2022-10-17/t11.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t11/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t11/2023-04-06/t11.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t12/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t12/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1172,12 +1208,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t12/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t12/2022-10-17/t12.zip"
+            "visualSampleEntry": "avc3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t12/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t12/2023-04-06/t12.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t13/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t13/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1190,12 +1226,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t13/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t13/2022-10-17/t13.zip"
+            "visualSampleEntry": "avc1+3",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t13/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t13/2023-04-06/t13.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t14/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t14/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1208,12 +1244,12 @@
             "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1+3",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t14/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t14/2022-10-17/t14.zip"
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t14/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t14/2023-04-06/t14.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t15/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t15/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1223,15 +1259,15 @@
                 }
             ],
             "segmentDuration": "1001/500",
-            "fragmentType": "pframes",
+            "fragmentType": "duration",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t15/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t15/2022-10-17/t15.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t15/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t15/2023-04-06/t15.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t16/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t16/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1241,15 +1277,15 @@
                 }
             ],
             "segmentDuration": "1001/500",
-            "fragmentType": "every_frame",
+            "fragmentType": "pframes",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t16/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t16/2022-10-17/t16.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t16/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t16/2023-04-06/t16.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t17/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t17/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1259,15 +1295,15 @@
                 }
             ],
             "segmentDuration": "1001/500",
-            "fragmentType": "duration",
+            "fragmentType": "every_frame",
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t17/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t17/2022-10-17/t17.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t17/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t17/2023-04-06/t17.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t19/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t19/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1281,11 +1317,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t19/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t19/2022-10-17/t19.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t19/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t19/2023-04-06/t19.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t21/2022-10-17/": {
-            "source": "tos_K1_1600x900@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t21/2023-04-06/": {
+            "source": "tos_K1_1600x900@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1600x900",
@@ -1299,11 +1335,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t21/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t21/2022-10-17/t21.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t21/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t21/2023-04-06/t21.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t22/2022-10-17/": {
-            "source": "tos_J1_1280x720@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t22/2023-04-06/": {
+            "source": "tos_J1_1280x720@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1280x720",
@@ -1317,11 +1353,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t22/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t22/2022-10-17/t22.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t22/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t22/2023-04-06/t22.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t23/2022-10-17/": {
-            "source": "tos_J1_1280x720@59.94_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t23/2023-04-06/": {
+            "source": "tos_J1_1280x720@59.94_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1280x720",
@@ -1335,11 +1371,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t23/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t23/2022-10-17/t23.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t23/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t23/2023-04-06/t23.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t24/2022-10-17/": {
-            "source": "tos_I1_1024x576@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t24/2023-04-06/": {
+            "source": "tos_I1_1024x576@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1024x576",
@@ -1353,11 +1389,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t24/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t24/2022-10-17/t24.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t24/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t24/2023-04-06/t24.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t25/2022-10-17/": {
-            "source": "tos_I2_1024x576@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t25/2023-04-06/": {
+            "source": "tos_I2_1024x576@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1024x576",
@@ -1371,11 +1407,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t25/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t25/2022-10-17/t25.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t25/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t25/2023-04-06/t25.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t26/2022-10-17/": {
-            "source": "tos_H1_960x540@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t26/2023-04-06/": {
+            "source": "tos_H1_960x540@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "960x540",
@@ -1389,11 +1425,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t26/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t26/2022-10-17/t26.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t26/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t26/2023-04-06/t26.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t27/2022-10-17/": {
-            "source": "tos_G1_852x480@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t27/2023-04-06/": {
+            "source": "tos_G1_852x480@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "852x480",
@@ -1407,11 +1443,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t27/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t27/2022-10-17/t27.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t27/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t27/2023-04-06/t27.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t28/2022-10-17/": {
-            "source": "tos_F1_768x432@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t28/2023-04-06/": {
+            "source": "tos_F1_768x432@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "768x432",
@@ -1425,11 +1461,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t28/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t28/2022-10-17/t28.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t28/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t28/2023-04-06/t28.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t29/2022-10-17/": {
-            "source": "tos_E1_720x404@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t29/2023-04-06/": {
+            "source": "tos_E1_720x404@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "720x404",
@@ -1443,11 +1479,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t29/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t29/2022-10-17/t29.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t29/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t29/2023-04-06/t29.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t30/2022-10-17/": {
-            "source": "tos_D1_704x396@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t30/2023-04-06/": {
+            "source": "tos_D1_704x396@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "704x396",
@@ -1461,11 +1497,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t30/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t30/2022-10-17/t30.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t30/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t30/2023-04-06/t30.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t31/2022-10-17/": {
-            "source": "tos_C1_640x360@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t31/2023-04-06/": {
+            "source": "tos_C1_640x360@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "640x360",
@@ -1479,11 +1515,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t31/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t31/2022-10-17/t31.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t31/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t31/2023-04-06/t31.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t32/2022-10-17/": {
-            "source": "tos_B1_512x288@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t32/2023-04-06/": {
+            "source": "tos_B1_512x288@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "512x288",
@@ -1497,11 +1533,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t32/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t32/2022-10-17/t32.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t32/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t32/2023-04-06/t32.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t33/2022-10-17/": {
-            "source": "tos_A1_480x270@29.97_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t33/2023-04-06/": {
+            "source": "tos_A1_480x270@29.97_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "480x270",
@@ -1515,11 +1551,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t33/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t33/2022-10-17/t33.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t33/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t33/2023-04-06/t33.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t34/2022-10-17/": {
-            "source": "tos_A1_480x270@14.985_60 version 2 (2021-08-03)",
+        "cfhd_sets/14.985_29.97_59.94/t34/2023-04-06/": {
+            "source": "tos_A1_480x270@14.985_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "480x270",
@@ -1533,8 +1569,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2022-10-17/t34.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2023-04-06/t34.zip"
         },
         "cfhd_sets/14.985_29.97_59.94/ss1/2022-10-17": {
             "source": "CTA WAVE",
@@ -1604,8 +1640,8 @@
         }
     },
     "CHDF": {
-        "chdf_sets/12.5_25_50/t20/2022-10-17/": {
-            "source": "croatia_L2_1920x1080@50_60 version 2 (2021-08-04)",
+        "chdf_sets/12.5_25_50/t20/2023-04-06/": {
+            "source": "croatia_L2_1920x1080@50_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1619,11 +1655,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/12.5_25_50/t20/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/12.5_25_50/t20/2022-10-17/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/12.5_25_50/t20/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/12.5_25_50/t20/2023-04-06/t20.zip"
         },
-        "chdf_sets/15_30_60/t20/2022-10-17/": {
-            "source": "tos_L2_1920x1080@60_60 version 2 (2021-08-04)",
+        "chdf_sets/15_30_60/t20/2023-04-06/": {
+            "source": "tos_L2_1920x1080@60_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1637,11 +1673,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/15_30_60/t20/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/15_30_60/t20/2022-10-17/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/15_30_60/t20/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/15_30_60/t20/2023-04-06/t20.zip"
         },
-        "chdf_sets/14.985_29.97_59.94/t20/2022-10-17/": {
-            "source": "tos_L2_1920x1080@59.94_60 version 2 (2021-08-03)",
+        "chdf_sets/14.985_29.97_59.94/t20/2023-04-06/": {
+            "source": "tos_L2_1920x1080@59.94_60 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1655,69 +1691,69 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/14.985_29.97_59.94/t20/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/14.985_29.97_59.94/t20/2022-10-17/t20.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/14.985_29.97_59.94/t20/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chdf_sets/14.985_29.97_59.94/t20/2023-04-06/t20.zip"
         }
     },
-    "CAAC": {
-        "caac_sets/12.5_25_50/audio/2022-10-17/": {
-            "source": "croatia_A1_480x270@12.5_60 version 2 (2021-08-04)",
+    "CHH1": {
+        "chh1_sets/12.5_25_50/t1/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
-                    "resolution": "480x270",
-                    "framerate": 12.5,
-                    "bitrate": "128",
-                    "input": "croatia_A1_480x270@12.5_60.mp4"
+                    "resolution": "1920x1080",
+                    "framerate": 25,
+                    "bitrate": "3500",
+                    "input": "croatia_L1_1920x1080@25_30.mp4"
                 }
             ],
             "segmentDuration": "2",
             "fragmentType": "duration",
-            "hasSEI": false,
+            "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/12.5_25_50/audio/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/12.5_25_50/audio/2022-10-17/audio.zip"
+            "visualSampleEntry": "hvc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/t1/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/t1/2023-04-06/t1.zip"
         },
-        "caac_sets/15_30_60/audio/2022-10-17/": {
-            "source": "tos_A1_480x270@15_60 version 2 (2021-08-03)",
+        "chh1_sets/15_30_60/t1/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
-                    "resolution": "480x270",
-                    "framerate": 15,
-                    "bitrate": "128",
-                    "input": "tos_A1_480x270@15_60.mp4"
+                    "resolution": "1920x1080",
+                    "framerate": 30,
+                    "bitrate": "3500",
+                    "input": "tos_L1_1920x1080@30_30.mp4"
                 }
             ],
             "segmentDuration": "2",
             "fragmentType": "duration",
-            "hasSEI": false,
+            "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/15_30_60/audio/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/15_30_60/audio/2022-10-17/audio.zip"
+            "visualSampleEntry": "hvc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t1/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t1/2023-04-06/t1.zip"
         },
-        "caac_sets/14.985_29.97_59.94/audio/2022-10-17/": {
-            "source": "tos_A1_480x270@14.985_60 version 2 (2021-08-03)",
+        "chh1_sets/14.985_29.97_59.94/t1/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
-                    "resolution": "480x270",
-                    "framerate": 14.985,
-                    "bitrate": "128",
-                    "input": "tos_A1_480x270@14.985_60.mp4"
+                    "resolution": "1920x1080",
+                    "framerate": 29.97,
+                    "bitrate": "3500",
+                    "input": "tos_L1_1920x1080@29.97_30.mp4"
                 }
             ],
             "segmentDuration": "1001/500",
             "fragmentType": "duration",
-            "hasSEI": false,
+            "hasSEI": true,
             "hasVUITiming": false,
-            "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/14.985_29.97_59.94/audio/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/caac_sets/14.985_29.97_59.94/audio/2022-10-17/audio.zip"
+            "visualSampleEntry": "hvc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/t1/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/t1/2023-04-06/t1.zip"
         }
     },
-    "CFHD-CENC": {
-        "cfhd_sets/12.5_25_50/t1-cenc/2022-10-17/": {
-            "source": "croatia_L1_1920x1080@25_30 version 3 (2022-04-20)",
+    "CENC": {
+        "cfhd_sets/12.5_25_50/t1-cenc/2023-04-06/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1731,11 +1767,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1-cenc/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1-cenc/2022-10-17/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1-cenc/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t1-cenc/2023-04-06/t1-cenc.zip"
         },
-        "cfhd_sets/15_30_60/t1-cenc/2022-10-17/": {
-            "source": "tos_L1_1920x1080@30_30 version 3 (2022-04-20)",
+        "cfhd_sets/15_30_60/t1-cenc/2023-04-06/": {
+            "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1749,11 +1785,11 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1-cenc/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1-cenc/2022-10-17/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1-cenc/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t1-cenc/2023-04-06/t1-cenc.zip"
         },
-        "cfhd_sets/14.985_29.97_59.94/t1-cenc/2022-10-17/": {
-            "source": "tos_L1_1920x1080@29.97_30 version 3 (2022-04-20)",
+        "cfhd_sets/14.985_29.97_59.94/t1-cenc/2023-04-06/": {
+            "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
                     "resolution": "1920x1080",
@@ -1767,12 +1803,12 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1-cenc/2022-10-17/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1-cenc/2022-10-17/t1-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1-cenc/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t1-cenc/2023-04-06/t1-cenc.zip"
         }
     },
     "CFHD-SPLICING": {
-        "avc_sets/12.5_25_50/splice_main/2022-01-18/": {
+        "cfhd_sets/12.5_25_50/splice_main/2023-04-06/": {
             "source": "CTA WAVE - splice_main_croatia_A1_1280x720@25_10 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1787,10 +1823,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main/2022-01-18/splice_main.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_main/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_main/2023-04-06/splice_main.zip"
         },
-        "avc_sets/12.5_25_50/splice_main-cenc/2022-01-18/": {
+        "cfhd_sets/12.5_25_50/splice_main-cenc/2023-04-06/": {
             "source": "CTA WAVE - splice_main_croatia_A1_1280x720@25_10 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1805,10 +1841,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main-cenc/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_main-cenc/2022-01-18/splice_main-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_main-cenc/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_main-cenc/2023-04-06/splice_main-cenc.zip"
         },
-        "avc_sets/12.5_25_50/splice_ad/2022-01-18/": {
+        "cfhd_sets/12.5_25_50/splice_ad/2023-04-06/": {
             "source": "CTA WAVE - splice_ad_bbb_AD-A1_1280x720@25_5.76 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1823,10 +1859,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad/2022-01-18/splice_ad.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_ad/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_ad/2023-04-06/splice_ad.zip"
         },
-        "avc_sets/12.5_25_50/splice_ad-cenc/2022-01-18/": {
+        "cfhd_sets/12.5_25_50/splice_ad-cenc/2023-04-06/": {
             "source": "CTA WAVE - splice_ad_bbb_AD-A1_1280x720@25_5.76 version 2 (2021-08-05)",
             "representations": [
                 {
@@ -1841,8 +1877,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad-cenc/2022-01-18/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/avc_sets/12.5_25_50/splice_ad-cenc/2022-01-18/splice_ad-cenc.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_ad-cenc/2023-04-06/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/splice_ad-cenc/2023-04-06/splice_ad-cenc.zip"
         }
     },
     "CEAC": {
