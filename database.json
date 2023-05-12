@@ -1696,7 +1696,7 @@
         }
     },
     "CHH1": {
-        "chh1_sets/12.5_25_50/t1/2023-04-28/": {
+        "chh1_sets/12.5_25_50/t1/2023-05-12/": {
             "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
             "representations": [
                 {
@@ -1711,10 +1711,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/t1/2023-04-28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/t1/2023-04-28/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/t1/2023-05-12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/t1/2023-05-12/t1.zip"
         },
-        "chh1_sets/15_30_60/t1/2023-04-28/": {
+        "chh1_sets/15_30_60/t1/2023-05-12/": {
             "source": "tos_L1_1920x1080@30_30 version 4 (2023-02-13)",
             "representations": [
                 {
@@ -1729,10 +1729,10 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t1/2023-04-28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t1/2023-04-28/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t1/2023-05-12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t1/2023-05-12/t1.zip"
         },
-        "chh1_sets/14.985_29.97_59.94/t1/2023-04-28/": {
+        "chh1_sets/14.985_29.97_59.94/t1/2023-05-12/": {
             "source": "tos_L1_1920x1080@29.97_30 version 4 (2023-02-13)",
             "representations": [
                 {
@@ -1747,8 +1747,8 @@
             "hasSEI": true,
             "hasVUITiming": false,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/t1/2023-04-28/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/t1/2023-04-28/t1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/t1/2023-05-12/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/t1/2023-05-12/t1.zip"
         }
     },
     "CENC": {
