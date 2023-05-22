@@ -2159,5 +2159,25 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/camc_sets/he_aac/at12/2023-04-27/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/camc_sets/he_aac/at12/2023-04-27/at12.zip"
         }
+    },
+    "chunked": {
+        "cfhd_sets/12.5_25_50/chunked/2023-05-21/": {
+            "source": "croatia_L1_1920x1080@25_30 version 4 (2023-02-13)",
+            "representations": [
+                {
+                    "resolution": "1920x1080",
+                    "framerate": 25,
+                    "bitrate": "4600",
+                    "input": "croatia_L1_1920x1080@25_30.mp4"
+                }
+            ],
+            "segmentDuration": "2",
+            "fragmentType": "pframes",
+            "hasSEI": true,
+            "hasVUITiming": false,
+            "visualSampleEntry": "avc1",
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/chunked/2023-05-21/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/chunked/2023-05-21/chunked.zip"
+        }
     }
 }
