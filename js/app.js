@@ -63,6 +63,7 @@ $.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/databa
       results_ca4s:          data["CA4S"],
       results_caaa:          data["CAAA"],
       results_camc:          data["CAMC"],
+      results_dts1:          data["DTS1"],
     },
     methods: {
       play: function(mpd) {
