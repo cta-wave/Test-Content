@@ -1923,7 +1923,7 @@
             "chunksPerFragment": "1",
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-08-01/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-08-01/at3.zip"
-        }
+        },
 	"ceac_sets/eac3/at4/2023-08-01/": {
             "representations": [
                 {
@@ -1984,7 +1984,7 @@
             "chunksPerFragment": "1",
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ca4s_sets/ac4/at3/2023-08-01/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ca4s_sets/ac4/at3/2023-08-01/at3.zip"
-        }
+        },
 	"ca4s_sets/ac4/at4/2023-08-01/": {
             "representations": [
                 {
@@ -2029,7 +2029,7 @@
             "editList": "With",
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at2/2023-08-01/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at2/2023-08-01/at2.zip"
-        }
+        },
         "caac_sets/aac_lc/at3/2023-04-27/": {
             "representations": {
                 "bitrate": "128000",
@@ -2127,7 +2127,7 @@
             "editList": "With",
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at16/2023-08-01/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at16/2023-08-01/at16.zip"
-	}
+	},
         "caac_sets/he_aac/at6/2023-04-27/": {
             "representations": {
                 "bitrate": "128000",
