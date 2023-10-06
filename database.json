@@ -468,7 +468,7 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2023-09-01/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2023-09-01/t34.zip"
         },
-        "switching_sets/12.5_25_50/ss1/2023-09-01": {
+        "switching_sets/12.5_25_50/ss1/2023-10-05": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -531,8 +531,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2023-09-01/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2023-09-01/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2023-10-05/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2023-10-05/ss1.zip"
         },
         "cfhd_sets/12.5_25_50/tLD/2023-09-01/": {
             "source": "croatia_LD1_1920x1080@25_7200 version 4 (2023-02-15)",
@@ -1020,7 +1020,7 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2023-09-01/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2023-09-01/t34.zip"
         },
-        "switching_sets/15_30_60/ss1/2023-09-01": {
+        "switching_sets/15_30_60/ss1/2023-10-05": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -1083,8 +1083,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2023-09-01/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2023-09-01/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2023-10-05/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2023-10-05/ss1.zip"
         },
         "cfhd_sets/15_30_60/tLD/2023-09-01/": {
             "source": "tos_LD1_1920x1080@30_7200 version 4 (2023-02-13)",
@@ -1572,7 +1572,7 @@
             "mpdPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2023-09-01/stream.mpd",
             "zipPath": "https://dash.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2023-09-01/t34.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss1/2023-09-01": {
+        "switching_sets/14.985_29.97_59.94/ss1/2023-10-05": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -1635,8 +1635,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2023-09-01/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2023-09-01/ss1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2023-10-05/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2023-10-05/ss1.zip"
         }
     },
     "CHDF": {
