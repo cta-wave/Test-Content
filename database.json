@@ -1882,7 +1882,7 @@
         }
     },
     "CEAC": {
-        "ceac_sets/eac3/at1/2023-08-01/": {
+        "ceac_sets/eac3/at1/2023-10-13/": {
             "representations": [
                 {
                     "bitrate": "128000",
@@ -1893,8 +1893,8 @@
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-08-01/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-08-01/at1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-10-13/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-10-13/at1.zip"
         },
         "ceac_sets/eac3/at2/2023-08-01/": {
             "representations": [
