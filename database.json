@@ -1882,7 +1882,7 @@
         }
     },
     "CEAC": {
-        "ceac_sets/eac3/at1/2023-10-13/": {
+        "ceac_sets/eac3/at1/2023-11-08/": {
             "representations": [
                 {
                     "bitrate": "128000",
@@ -1893,10 +1893,10 @@
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-10-13/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-10-13/at1.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-11-08/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-11-08/at1.zip"
         },
-        "ceac_sets/eac3/at2/2023-08-01/": {
+        "ceac_sets/eac3/at2/2023-11-08/": {
             "representations": [
                 {
                     "bitrate": "128000",
@@ -1907,10 +1907,10 @@
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "4",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at2/2023-08-01/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at2/2023-08-01/at2.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at2/2023-11-08/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at2/2023-11-08/at2.zip"
         },
-        "ceac_sets/eac3/at3/2023-08-01/": {
+        "ceac_sets/eac3/at3/2023-11-08/": {
             "representations": [
                 {
                     "bitrate": "128000",
@@ -1921,10 +1921,10 @@
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-08-01/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-08-01/at3.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-11-08/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-11-08/at3.zip"
         },
-	"ceac_sets/eac3/at4/2023-08-01/": {
+	"ceac_sets/eac3/at4/2023-11-08/": {
             "representations": [
                 {
                     "bitrate": "128000",
@@ -1935,8 +1935,8 @@
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
-            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at4/2023-08-01/stream.mpd",
-            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at4/2023-08-01/at4.zip"
+            "mpdPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at4/2023-11-08/stream.mpd",
+            "zipPath": "https://dash.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at4/2023-11-08/at4.zip"
         }
     },
     "CA4S": {
