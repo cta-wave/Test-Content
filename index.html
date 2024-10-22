@@ -141,6 +141,9 @@
                      <a class="nav-link" id="cfhd-splicing-tab" data-toggle="tab" href="#cfhd-splicing" role="tab" >CFHD-SPLICING</a>
                   </li>
                   <li class="nav-item">
+                    <a class="nav-link active"  id="chdf-tab" data-toggle="tab" href="#chdf" role="tab" >CHDF</a>
+                  </li>
+                  <li class="nav-item">
                      <a class="nav-link" id="caac-tab" data-toggle="tab" href="#caac" role="tab" >CAAC</a>
                   </li>
                   <li class="nav-item">
@@ -250,6 +253,36 @@
                            <td>{{ item.fragmentType }}</td>
                            <td>{{ item.hasSEI }}</td>
                            <td>{{ item.segmentDuration }}</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table class="table tab-pane fade show active" id="chdf" role="tabpanel" aria-labelledby="chdf-tab">
+                     <thead class="thead-dark">
+                        <tr>
+                           <th scope="col">File</th>
+                           <th scope="col">Representations</th>
+                           <th scope="col">VSE</th>
+                           <th scope="col">VUI Timing</th>
+                           <th scope="col">Fragment Type</th>
+                           <th scope="col">Picture SEI Timing Message</th>
+                           <th scope="col">Segment Duration</th>
+                           <th scope="col">Play</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr v-for="(item, index) in results_chdf" :key="index">
+                           <td scope="row"><a v-bind:href="`${item.mpdPath}`">{{ item.mpdPath }}</a></td>
+                           <td>
+                              <ol>
+                                 <li v-for="(rep, idx) in item.representations" :key="idx">{{ rep }}</li>
+                              </ol>
+                           </td>
+                           <td>{{ item.visualSampleEntry }}</td>
+                           <td>{{ item.hasVUITiming }}</td>
+                           <td>{{ item.fragmentType }}</td>
+                           <td>{{ item.hasSEI }}</td>
+                           <td>{{ item.segmentDuration }}</td>
+                           <td><button class="play btn btn-success" v-on:click="play(item.mpdPath)">Play</button></td>
                         </tr>
                      </tbody>
                   </table>
