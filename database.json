@@ -518,12 +518,6 @@
                     "framerate": 12.5,
                     "bitrate": "300",
                     "input": "croatia_A1_480x270@12.5_60.mp4"
-                },
-                {
-                    "resolution": "480x270",
-                    "framerate": 12.5,
-                    "bitrate": "128",
-                    "input": "croatia_A1_480x270@12.5_60.mp4"
                 }
             ],
             "segmentDuration": "2",
@@ -1070,12 +1064,6 @@
                     "framerate": 15,
                     "bitrate": "300",
                     "input": "tos_A1_480x270@15_60.mp4"
-                },
-                {
-                    "resolution": "480x270",
-                    "framerate": 15,
-                    "bitrate": "128",
-                    "input": "tos_A1_480x270@15_60.mp4"
                 }
             ],
             "segmentDuration": "2",
@@ -1621,12 +1609,6 @@
                     "resolution": "480x270",
                     "framerate": 14.985,
                     "bitrate": "300",
-                    "input": "tos_A1_480x270@14.985_60.mp4"
-                },
-                {
-                    "resolution": "480x270",
-                    "framerate": 14.985,
-                    "bitrate": "128",
                     "input": "tos_A1_480x270@14.985_60.mp4"
                 }
             ],
