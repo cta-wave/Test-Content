@@ -468,7 +468,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2023-09-01/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cfhd_sets/12.5_25_50/t34/2023-09-01/t34.zip"
         },
-        "switching_sets/12.5_25_50/ss1/2023-10-05": {
+        "switching_sets/12.5_25_50/ss1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -525,8 +525,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2023-10-05/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2023-10-05/ss1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss1/2025-05-24/ss1.zip"
         },
         "cfhd_sets/12.5_25_50/tLD/2023-09-01/": {
             "source": "croatia_LD1_1920x1080@25_7200 version 4 (2023-02-15)",
@@ -1014,7 +1014,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2023-09-01/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cfhd_sets/15_30_60/t34/2023-09-01/t34.zip"
         },
-        "switching_sets/15_30_60/ss1/2023-10-05": {
+        "switching_sets/15_30_60/ss1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -1071,8 +1071,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2023-10-05/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2023-10-05/ss1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss1/2025-05-24/ss1.zip"
         },
         "cfhd_sets/15_30_60/tLD/2023-09-01/": {
             "source": "tos_LD1_1920x1080@30_7200 version 4 (2023-02-13)",
@@ -1560,7 +1560,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2023-09-01/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cfhd_sets/14.985_29.97_59.94/t34/2023-09-01/t34.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss1/2023-10-05": {
+        "switching_sets/14.985_29.97_59.94/ss1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -1617,8 +1617,8 @@
             "hasSEI": false,
             "hasVUITiming": false,
             "visualSampleEntry": "avc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2023-10-05/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2023-10-05/ss1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss1/2025-05-24/ss1.zip"
         }
     },
     "CHDF": {
@@ -4014,7 +4014,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/t32/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/t32/2025-01-15/t32.zip"
         },
-        "switching_sets/12.5_25_50/ss3_cud1/2025-01-15": {
+        "switching_sets/12.5_25_50/ss3_cud1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4041,10 +4041,10 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss3_cud1/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss3_cud1/2025-01-15/ss3_cud1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss3_cud1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss3_cud1/2025-05-24/ss3_cud1.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss3_cud1/2025-01-15": {
+        "switching_sets/14.985_29.97_59.94/ss3_cud1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4071,10 +4071,10 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss3_cud1/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss3_cud1/2025-01-15/ss3_cud1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss3_cud1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss3_cud1/2025-05-24/ss3_cud1.zip"
         },
-        "switching_sets/15_30_60/ss3_cud1/2025-01-15": {
+        "switching_sets/15_30_60/ss3_cud1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4101,8 +4101,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss3_cud1/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss3_cud1/2025-01-15/ss3_cud1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss3_cud1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss3_cud1/2025-05-24/ss3_cud1.zip"
         },
         "cud1_sets/12.5_25_50/t22/2025-04-15/": {
             "source": "sol_sdr_bt2020_O1_3840x2160@50_30 version 5 (2024-11-26)",
@@ -4810,7 +4810,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/t53/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/t53/2025-01-15/t53.zip"
         },
-        "switching_sets/12.5_25_50/ss4_clg1/2025-01-15": {
+        "switching_sets/12.5_25_50/ss4_clg1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4843,10 +4843,10 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss4_clg1/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss4_clg1/2025-01-15/ss4_clg1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss4_clg1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss4_clg1/2025-05-24/ss4_clg1.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss4_clg1/2025-01-15": {
+        "switching_sets/14.985_29.97_59.94/ss4_clg1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4879,10 +4879,10 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss4_clg1/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss4_clg1/2025-01-15/ss4_clg1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss4_clg1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss4_clg1/2025-05-24/ss4_clg1.zip"
         },
-        "switching_sets/15_30_60/ss4_clg1/2025-01-15": {
+        "switching_sets/15_30_60/ss4_clg1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4915,8 +4915,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss4_clg1/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss4_clg1/2025-01-15/ss4_clg1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss4_clg1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss4_clg1/2025-05-24/ss4_clg1.zip"
         },
         "clg1_sets/12.5_25_50/t42/2025-04-15/": {
             "source": "croatia_hlg10_O1_3840x2160@50_30 version 5 (2024-11-28)",
@@ -5588,7 +5588,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss5_chd1/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss5_chd1/2025-01-15/ss5_chd1.zip"
         },
-        "switching_sets/15_30_60/ss5_chd1/2025-01-15": {
+        "switching_sets/15_30_60/ss5_chd1/2025-05-24": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -5621,8 +5621,8 @@
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss5_chd1/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss5_chd1/2025-01-15/ss5_chd1.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss5_chd1/2025-05-24/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss5_chd1/2025-05-24/ss5_chd1.zip"
         },
         "chd1_sets/12.5_25_50/t62/2025-04-15/": {
             "source": "sol_hdr10_O1_3840x2160@50_30 version 5 (2024-11-27)",
