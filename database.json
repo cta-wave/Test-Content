@@ -3184,7 +3184,7 @@
         }
     },
     "CHH1_SPLICING": {
-        "chh1_sets/12.5_25_50/splice_main/2025-01-15/": {
+        "chh1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_croatia_B1_1920x1080@50_10 version 5 (2024-11-25)",
             "representations": [
                 {
@@ -3194,51 +3194,15 @@
                     "input": "splice_main_croatia_B1_1920x1080@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main/2025-01-15/splice_main.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main/2025-06-30/splice_main.zip"
         },
-        "chh1_sets/14.985_29.97_59.94/splice_main/2025-01-15/": {
-            "source": "splice_main_tos_B1_1920x1080@59.94_10 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 59.94,
-                    "bitrate": 8000,
-                    "input": "splice_main_tos_B1_1920x1080@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_main/2025-01-15/splice_main.zip"
-        },
-        "chh1_sets/15_30_60/splice_main/2025-01-15/": {
-            "source": "splice_main_tos_B1_1920x1080@60_10 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 60,
-                    "bitrate": 8000,
-                    "input": "splice_main_tos_B1_1920x1080@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_main/2025-01-15/splice_main.zip"
-        },
-        "chh1_sets/12.5_25_50/splice_ad/2025-06-13/": {
+        "chh1_sets/12.5_25_50/splice_ad/2025-06-30/": {
             "source": "splice_ad_bbb_AD-B1_1920x1080@50_5.76 version 5 (2024-11-25)",
             "representations": [
                 {
@@ -3248,51 +3212,15 @@
                     "input": "splice_ad_bbb_AD-B1_1920x1080@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad/2025-06-13/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad/2025-06-13/splice_ad.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad/2025-06-30/splice_ad.zip"
         },
-        "chh1_sets/14.985_29.97_59.94/splice_ad/2025-06-13/": {
-            "source": "splice_ad_bbb_AD-B1_1920x1080@59.94_21.255 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 59.94,
-                    "bitrate": 8000,
-                    "input": "splice_ad_bbb_AD-B1_1920x1080@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_ad/2025-06-13/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_ad/2025-06-13/splice_ad.zip"
-        },
-        "chh1_sets/15_30_60/splice_ad/2025-06-13/": {
-            "source": "splice_ad_bbb_AD-B1_1920x1080@60_6.4 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 60,
-                    "bitrate": 8000,
-                    "input": "splice_ad_bbb_AD-B1_1920x1080@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_ad/2025-06-13/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_ad/2025-06-13/splice_ad.zip"
-        },
-        "chh1_sets/12.5_25_50/splice_main-cenc/2025-01-15/": {
+        "chh1_sets/12.5_25_50/splice_main-cenc/2025-06-30/": {
             "source": "splice_main_croatia_B1_1920x1080@50_10 version 5 (2024-11-25)",
             "representations": [
                 {
@@ -3302,51 +3230,15 @@
                     "input": "splice_main_croatia_B1_1920x1080@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_main-cenc/2025-06-30/splice_main-cenc.zip"
         },
-        "chh1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_tos_B1_1920x1080@59.94_10 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 59.94,
-                    "bitrate": 8000,
-                    "input": "splice_main_tos_B1_1920x1080@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "chh1_sets/15_30_60/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_tos_B1_1920x1080@60_10 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 60,
-                    "bitrate": 8000,
-                    "input": "splice_main_tos_B1_1920x1080@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "chh1_sets/12.5_25_50/splice_ad-cenc/2025-04-15/": {
+        "chh1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/": {
             "source": "splice_ad_bbb_AD-B1_1920x1080@50_5.76 version 5 (2024-11-25)",
             "representations": [
                 {
@@ -3356,49 +3248,13 @@
                     "input": "splice_ad_bbb_AD-B1_1920x1080@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad-cenc/2025-04-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad-cenc/2025-04-15/splice_ad-cenc.zip"
-        },
-        "chh1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-04-15/": {
-            "source": "splice_ad_bbb_AD-B1_1920x1080@59.94_21.255 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 59.94,
-                    "bitrate": 8000,
-                    "input": "splice_ad_bbb_AD-B1_1920x1080@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-04-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-04-15/splice_ad-cenc.zip"
-        },
-        "chh1_sets/15_30_60/splice_ad-cenc/2025-04-15/": {
-            "source": "splice_ad_bbb_AD-B1_1920x1080@60_6.4 version 5 (2024-11-25)",
-            "representations": [
-                {
-                    "resolution": "1920x1080",
-                    "framerate": 60,
-                    "bitrate": 8000,
-                    "input": "splice_ad_bbb_AD-B1_1920x1080@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_ad-cenc/2025-04-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/splice_ad-cenc/2025-04-15/splice_ad-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/splice_ad-cenc.zip"
         }
     },
     "CUD1": {
@@ -3764,7 +3620,7 @@
         }
     },
     "CUD1_SPLICING": {
-        "cud1_sets/12.5_25_50/splice_main/2025-01-15/": {
+        "cud1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_sol_sdr_bt2020_C1_3840x2160@50_10 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -3774,51 +3630,15 @@
                     "input": "splice_main_sol_sdr_bt2020_C1_3840x2160@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main/2025-01-15/splice_main.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main/2025-06-30/splice_main.zip"
         },
-        "cud1_sets/14.985_29.97_59.94/splice_main/2025-01-15/": {
-            "source": "splice_main_sol_sdr_bt2020_C1_3840x2160@59.94_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17000,
-                    "input": "splice_main_sol_sdr_bt2020_C1_3840x2160@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_main/2025-01-15/splice_main.zip"
-        },
-        "cud1_sets/15_30_60/splice_main/2025-01-15/": {
-            "source": "splice_main_sol_sdr_bt2020_C1_3840x2160@60_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17000,
-                    "input": "splice_main_sol_sdr_bt2020_C1_3840x2160@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_main/2025-01-15/splice_main.zip"
-        },
-        "cud1_sets/12.5_25_50/splice_ad/2025-01-15/": {
+        "cud1_sets/12.5_25_50/splice_ad/2025-06-30/": {
             "source": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@50_5.76 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -3828,51 +3648,15 @@
                     "input": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad/2025-01-15/splice_ad.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad/2025-06-30/splice_ad.zip"
         },
-        "cud1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/": {
-            "source": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@59.94_21.255 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17000,
-                    "input": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/splice_ad.zip"
-        },
-        "cud1_sets/15_30_60/splice_ad/2025-01-15/": {
-            "source": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@60_6.4 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17000,
-                    "input": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_ad/2025-01-15/splice_ad.zip"
-        },
-        "cud1_sets/12.5_25_50/splice_main-cenc/2025-01-15/": {
+        "cud1_sets/12.5_25_50/splice_main-cenc/2025-06-30/": {
             "source": "splice_main_sol_sdr_bt2020_C1_3840x2160@50_10 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -3882,51 +3666,15 @@
                     "input": "splice_main_sol_sdr_bt2020_C1_3840x2160@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_main-cenc/2025-06-30/splice_main-cenc.zip"
         },
-        "cud1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_sol_sdr_bt2020_C1_3840x2160@59.94_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17000,
-                    "input": "splice_main_sol_sdr_bt2020_C1_3840x2160@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "cud1_sets/15_30_60/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_sol_sdr_bt2020_C1_3840x2160@60_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17000,
-                    "input": "splice_main_sol_sdr_bt2020_C1_3840x2160@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "cud1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/": {
+        "cud1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/": {
             "source": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@50_5.76 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -3936,49 +3684,13 @@
                     "input": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
-        },
-        "cud1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/": {
-            "source": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@59.94_21.255 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17000,
-                    "input": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
-        },
-        "cud1_sets/15_30_60/splice_ad-cenc/2025-01-15/": {
-            "source": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@60_6.4 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17000,
-                    "input": "splice_ad_sol_sdr_bt2020_AD-C1_3840x2160@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/splice_ad-cenc.zip"
         }
     },
     "CLG1": {
@@ -4416,7 +4128,7 @@
         }
     },
     "CLG1_SPLICING": {
-        "clg1_sets/12.5_25_50/splice_main/2025-01-15/": {
+        "clg1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_croatia_hlg10_C1_3840x2160@50_10 version 5 (2024-11-28)",
             "representations": [
                 {
@@ -4426,51 +4138,15 @@
                     "input": "splice_main_croatia_hlg10_C1_3840x2160@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main/2025-01-15/splice_main.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main/2025-06-30/splice_main.zip"
         },
-        "clg1_sets/14.985_29.97_59.94/splice_main/2025-01-15/": {
-            "source": "splice_main_croatia_hlg10_C1_3840x2160@59.94_10 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_main_croatia_hlg10_C1_3840x2160@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_main/2025-01-15/splice_main.zip"
-        },
-        "clg1_sets/15_30_60/splice_main/2025-01-15/": {
-            "source": "splice_main_croatia_hlg10_C1_3840x2160@60_10 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_main_croatia_hlg10_C1_3840x2160@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_main/2025-01-15/splice_main.zip"
-        },
-        "clg1_sets/12.5_25_50/splice_ad/2025-01-15/": {
+        "clg1_sets/12.5_25_50/splice_ad/2025-06-30/": {
             "source": "splice_ad_croatia_hlg10_AD-C1_3840x2160@50_5.76 version 5 (2024-11-28)",
             "representations": [
                 {
@@ -4480,51 +4156,15 @@
                     "input": "splice_ad_croatia_hlg10_AD-C1_3840x2160@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad/2025-01-15/splice_ad.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad/2025-06-30/splice_ad.zip"
         },
-        "clg1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/": {
-            "source": "splice_ad_croatia_hlg10_AD-C1_3840x2160@59.94_21.255 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_ad_croatia_hlg10_AD-C1_3840x2160@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/splice_ad.zip"
-        },
-        "clg1_sets/15_30_60/splice_ad/2025-01-15/": {
-            "source": "splice_ad_croatia_hlg10_AD-C1_3840x2160@60_6.4 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_ad_croatia_hlg10_AD-C1_3840x2160@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_ad/2025-01-15/splice_ad.zip"
-        },
-        "clg1_sets/12.5_25_50/splice_main-cenc/2025-01-15/": {
+        "clg1_sets/12.5_25_50/splice_main-cenc/2025-06-30/": {
             "source": "splice_main_croatia_hlg10_C1_3840x2160@50_10 version 5 (2024-11-28)",
             "representations": [
                 {
@@ -4534,51 +4174,15 @@
                     "input": "splice_main_croatia_hlg10_C1_3840x2160@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_main-cenc/2025-06-30/splice_main-cenc.zip"
         },
-        "clg1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_croatia_hlg10_C1_3840x2160@59.94_10 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_main_croatia_hlg10_C1_3840x2160@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "clg1_sets/15_30_60/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_croatia_hlg10_C1_3840x2160@60_10 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_main_croatia_hlg10_C1_3840x2160@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "clg1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/": {
+        "clg1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/": {
             "source": "splice_ad_croatia_hlg10_AD-C1_3840x2160@50_5.76 version 5 (2024-11-28)",
             "representations": [
                 {
@@ -4588,49 +4192,13 @@
                     "input": "splice_ad_croatia_hlg10_AD-C1_3840x2160@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
-        },
-        "clg1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/": {
-            "source": "splice_ad_croatia_hlg10_AD-C1_3840x2160@59.94_21.255 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_ad_croatia_hlg10_AD-C1_3840x2160@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
-        },
-        "clg1_sets/15_30_60/splice_ad-cenc/2025-01-15/": {
-            "source": "splice_ad_croatia_hlg10_AD-C1_3840x2160@60_6.4 version 5 (2024-11-28)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_ad_croatia_hlg10_AD-C1_3840x2160@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/splice_ad-cenc.zip"
         }
     },
     "CHD1": {
@@ -5068,7 +4636,7 @@
         }
     },
     "CHD1_SPLICING": {
-        "chd1_sets/12.5_25_50/splice_main/2025-01-15/": {
+        "chd1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_sol_hdr10_C1_3840x2160@50_10 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -5078,51 +4646,15 @@
                     "input": "splice_main_sol_hdr10_C1_3840x2160@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main/2025-01-15/splice_main.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main/2025-06-30/splice_main.zip"
         },
-        "chd1_sets/14.985_29.97_59.94/splice_main/2025-01-15/": {
-            "source": "splice_main_sol_hdr10_C1_3840x2160@59.94_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_main_sol_hdr10_C1_3840x2160@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_main/2025-01-15/splice_main.zip"
-        },
-        "chd1_sets/15_30_60/splice_main/2025-01-15/": {
-            "source": "splice_main_sol_hdr10_C1_3840x2160@60_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_main_sol_hdr10_C1_3840x2160@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_main/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_main/2025-01-15/splice_main.zip"
-        },
-        "chd1_sets/12.5_25_50/splice_ad/2025-01-15/": {
+        "chd1_sets/12.5_25_50/splice_ad/2025-06-30/": {
             "source": "splice_ad_sol_hdr10_AD-C1_3840x2160@50_5.76 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -5132,51 +4664,15 @@
                     "input": "splice_ad_sol_hdr10_AD-C1_3840x2160@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad/2025-01-15/splice_ad.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad/2025-06-30/splice_ad.zip"
         },
-        "chd1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/": {
-            "source": "splice_ad_sol_hdr10_AD-C1_3840x2160@59.94_21.255 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_ad_sol_hdr10_AD-C1_3840x2160@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_ad/2025-01-15/splice_ad.zip"
-        },
-        "chd1_sets/15_30_60/splice_ad/2025-01-15/": {
-            "source": "splice_ad_sol_hdr10_AD-C1_3840x2160@60_6.4 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_ad_sol_hdr10_AD-C1_3840x2160@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_ad/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_ad/2025-01-15/splice_ad.zip"
-        },
-        "chd1_sets/12.5_25_50/splice_main-cenc/2025-01-15/": {
+        "chd1_sets/12.5_25_50/splice_main-cenc/2025-06-30/": {
             "source": "splice_main_sol_hdr10_C1_3840x2160@50_10 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -5186,51 +4682,15 @@
                     "input": "splice_main_sol_hdr10_C1_3840x2160@50_10.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_main-cenc/2025-06-30/splice_main-cenc.zip"
         },
-        "chd1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_sol_hdr10_C1_3840x2160@59.94_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_main_sol_hdr10_C1_3840x2160@59.94_10.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "chd1_sets/15_30_60/splice_main-cenc/2025-01-15/": {
-            "source": "splice_main_sol_hdr10_C1_3840x2160@60_10 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_main_sol_hdr10_C1_3840x2160@60_10.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_main-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_main-cenc/2025-01-15/splice_main-cenc.zip"
-        },
-        "chd1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/": {
+        "chd1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/": {
             "source": "splice_ad_sol_hdr10_AD-C1_3840x2160@50_5.76 version 5 (2024-11-26)",
             "representations": [
                 {
@@ -5240,49 +4700,13 @@
                     "input": "splice_ad_sol_hdr10_AD-C1_3840x2160@50_5.76.mp4"
                 }
             ],
-            "segmentDuration": "2",
+            "segmentDuration": "48/25",
             "fragmentType": "duration",
             "hasSEI": false,
             "hasVUITiming": true,
             "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
-        },
-        "chd1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/": {
-            "source": "splice_ad_sol_hdr10_AD-C1_3840x2160@59.94_21.255 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 59.94,
-                    "bitrate": 17500,
-                    "input": "splice_ad_sol_hdr10_AD-C1_3840x2160@59.94_21.255.mp4"
-                }
-            ],
-            "segmentDuration": "1001/500",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/14.985_29.97_59.94/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
-        },
-        "chd1_sets/15_30_60/splice_ad-cenc/2025-01-15/": {
-            "source": "splice_ad_sol_hdr10_AD-C1_3840x2160@60_6.4 version 5 (2024-11-26)",
-            "representations": [
-                {
-                    "resolution": "3840x2160",
-                    "framerate": 60,
-                    "bitrate": 17500,
-                    "input": "splice_ad_sol_hdr10_AD-C1_3840x2160@60_6.4.mp4"
-                }
-            ],
-            "segmentDuration": "2",
-            "fragmentType": "duration",
-            "hasSEI": false,
-            "hasVUITiming": true,
-            "visualSampleEntry": "hvc1",
-            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_ad-cenc/2025-01-15/stream.mpd",
-            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/splice_ad-cenc/2025-01-15/splice_ad-cenc.zip"
+            "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/stream.mpd",
+            "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/splice_ad-cenc/2025-06-30/splice_ad-cenc.zip"
         }
     }
 }
