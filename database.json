@@ -3183,7 +3183,7 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/12.5_25_50/chunked/2025-04-15/chunked.zip"
         }
     },
-    "CHH1_SPLICING": {
+    "CHH1-SPLICING": {
         "chh1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_croatia_B1_1920x1080@50_10 version 5 (2024-11-25)",
             "representations": [
@@ -3619,7 +3619,7 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss3_cud1/2025-05-24/ss3_cud1.zip"
         }
     },
-    "CUD1_SPLICING": {
+    "CUD1-SPLICING": {
         "cud1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_sol_sdr_bt2020_C1_3840x2160@50_10 version 5 (2024-11-26)",
             "representations": [
@@ -4127,7 +4127,7 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss4_clg1/2025-05-24/ss4_clg1.zip"
         }
     },
-    "CLG1_SPLICING": {
+    "CLG1-SPLICING": {
         "clg1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_croatia_hlg10_C1_3840x2160@50_10 version 5 (2024-11-28)",
             "representations": [
@@ -4635,7 +4635,7 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/15_30_60/ss5_chd1/2025-05-24/ss5_chd1.zip"
         }
     },
-    "CHD1_SPLICING": {
+    "CHD1-SPLICING": {
         "chd1_sets/12.5_25_50/splice_main/2025-06-30/": {
             "source": "splice_main_sol_hdr10_C1_3840x2160@50_10 version 5 (2024-11-26)",
             "representations": [
