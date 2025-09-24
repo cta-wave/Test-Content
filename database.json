@@ -2218,7 +2218,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t12/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chh1_sets/15_30_60/t12/2025-01-15/t12.zip"
         },
-        "switching_sets/12.5_25_50/ss2_chh1/2025-01-15/": {
+        "switching_sets/12.5_25_50/ss2_chh1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -2248,7 +2248,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss2_chh1/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss2_chh1/2025-01-15/ss2_chh1.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss2_chh1/2025-01-15/": {
+        "switching_sets/14.985_29.97_59.94/ss2_chh1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -2278,7 +2278,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss2_chh1/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss2_chh1/2025-01-15/ss2_chh1.zip"
         },
-        "switching_sets/15_30_60/ss2_chh1/2025-01-15/": {
+        "switching_sets/15_30_60/ss2_chh1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -3528,7 +3528,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/t32/2025-06-13/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/cud1_sets/15_30_60/t32/2025-06-13/t32.zip"
         },
-        "switching_sets/12.5_25_50/ss3_cud1/2025-05-24/": {
+        "switching_sets/12.5_25_50/ss3_cud1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -3558,7 +3558,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss3_cud1/2025-05-24/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss3_cud1/2025-05-24/ss3_cud1.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss3_cud1/2025-05-24/": {
+        "switching_sets/14.985_29.97_59.94/ss3_cud1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -3588,7 +3588,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss3_cud1/2025-05-24/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss3_cud1/2025-05-24/ss3_cud1.zip"
         },
-        "switching_sets/15_30_60/ss3_cud1/2025-05-24/": {
+        "switching_sets/15_30_60/ss3_cud1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4018,7 +4018,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/t53/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/clg1_sets/15_30_60/t53/2025-01-15/t53.zip"
         },
-        "switching_sets/12.5_25_50/ss4_clg1/2025-05-24/": {
+        "switching_sets/12.5_25_50/ss4_clg1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4054,7 +4054,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss4_clg1/2025-05-24/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss4_clg1/2025-05-24/ss4_clg1.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss4_clg1/2025-05-24/": {
+        "switching_sets/14.985_29.97_59.94/ss4_clg1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4090,7 +4090,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss4_clg1/2025-05-24/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss4_clg1/2025-05-24/ss4_clg1.zip"
         },
-        "switching_sets/15_30_60/ss4_clg1/2025-05-24/": {
+        "switching_sets/15_30_60/ss4_clg1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4526,7 +4526,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/t73/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/chd1_sets/15_30_60/t73/2025-01-15/t73.zip"
         },
-        "switching_sets/12.5_25_50/ss5_chd1/2025-01-15/": {
+        "switching_sets/12.5_25_50/ss5_chd1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4562,7 +4562,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss5_chd1/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/12.5_25_50/ss5_chd1/2025-01-15/ss5_chd1.zip"
         },
-        "switching_sets/14.985_29.97_59.94/ss5_chd1/2025-01-15/": {
+        "switching_sets/14.985_29.97_59.94/ss5_chd1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
@@ -4598,7 +4598,7 @@
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss5_chd1/2025-01-15/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/switching_sets/14.985_29.97_59.94/ss5_chd1/2025-01-15/ss5_chd1.zip"
         },
-        "switching_sets/15_30_60/ss5_chd1/2025-05-24/": {
+        "switching_sets/15_30_60/ss5_chd1/2025-09-23": {
             "source": "CTA WAVE",
             "representations": [
                 {
