@@ -67,13 +67,13 @@ $.getJSON("https://raw.githubusercontent.com/cta-wave/Test-Content/master/databa
       results_camc:          data["CAMC"],
       results_dts1:          data["DTS1"],
       results_chunked:       data["chunked"],
-      results_chh1_splicing: data["CHH1_SPLICING"],
+      results_chh1_splicing: data["CHH1-SPLICING"],
       results_cud1:          data["CUD1"],
-      results_cud1_splicing: data["CUD1_SPLICING"],
+      results_cud1_splicing: data["CUD1-SPLICING"],
       results_clg1:          data["CLG1"],
-      results_clg1_splicing: data["CLG1_SPLICING"],
+      results_clg1_splicing: data["CLG1-SPLICING"],
       results_chd1:          data["CHD1"],
-      results_chd1_splicing: data["CHD1_SPLICING"],
+      results_chd1_splicing: data["CHD1-SPLICING"],
     },
     methods: {
       play: function(mpd) {
